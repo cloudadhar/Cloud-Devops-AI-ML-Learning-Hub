@@ -28,3 +28,8 @@
 - [Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning/) - official Azure ML docs.
 - [Azure DevOps documentation](https://learn.microsoft.com/en-us/azure/devops/) - official DevOps docs.
 - [Azure Kubernetes Service documentation](https://learn.microsoft.com/en-us/azure/aks/) - AKS docs.
+
+
+## Supporting Docs
+
+- [Azure Core Services Notes](core-services-notes.md)

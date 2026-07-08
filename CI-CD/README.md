@@ -35,3 +35,8 @@ checkout -> lint -> test -> security scan -> build -> publish artifact -> deploy
 - [GitLab CI/CD documentation](https://docs.gitlab.com/ci/) - official GitLab CI/CD docs.
 - [Jenkins documentation](https://www.jenkins.io/doc/) - official Jenkins docs.
 - [Argo CD documentation](https://argo-cd.readthedocs.io/en/stable/) - GitOps CD for Kubernetes.
+
+
+## Supporting Docs
+
+- [Pipeline Examples](pipeline-examples.md)

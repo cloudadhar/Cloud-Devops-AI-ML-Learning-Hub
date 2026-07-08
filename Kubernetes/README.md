@@ -30,3 +30,8 @@
 - [Kubernetes Documentation](https://kubernetes.io/docs/) - official Kubernetes docs.
 - [Argo CD Documentation](https://argo-cd.readthedocs.io/en/stable/) - GitOps deployment.
 - [Cilium Documentation](https://docs.cilium.io/en/stable/) - networking, security, and eBPF.
+
+
+## Supporting Docs
+
+- [Kubernetes Notes](kubernetes-notes.md)

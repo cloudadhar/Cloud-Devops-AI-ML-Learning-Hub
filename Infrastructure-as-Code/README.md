@@ -31,3 +31,8 @@
 - [Ansible documentation](https://docs.ansible.com/) - official Ansible community docs.
 - [AWS CloudFormation documentation](https://docs.aws.amazon.com/cloudformation/) - AWS IaC docs.
 - [Azure Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) - Azure IaC docs.
+
+
+## Supporting Docs
+
+- [Terraform Notes](terraform-notes.md)

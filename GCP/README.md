@@ -29,3 +29,8 @@
 - [Google Cloud AI documentation](https://cloud.google.com/vertex-ai/docs) - current Google Cloud AI documentation route.
 - [Google Kubernetes Engine documentation](https://cloud.google.com/kubernetes-engine/docs) - official GKE docs.
 - [Cloud Build documentation](https://cloud.google.com/build/docs) - official CI/CD docs.
+
+
+## Supporting Docs
+
+- [GCP Core Services Notes](core-services-notes.md)

@@ -41,3 +41,8 @@
 - [Prometheus Overview](https://prometheus.io/docs/introduction/overview/) - official Prometheus docs.
 - [Grafana Docs](https://grafana.com/docs/) - official Grafana docs.
 - [OpenTelemetry Docs](https://opentelemetry.io/docs/) - official OpenTelemetry docs.
+
+
+## Supporting Docs
+
+- [Metrics, Logs, and Traces Notes](metrics-logs-traces-notes.md)

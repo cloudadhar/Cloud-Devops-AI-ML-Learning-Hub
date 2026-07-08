@@ -5,6 +5,9 @@ Welcome to the Cloud DevOps AI/ML Learning Hub.
 ## Step 1: Build Foundation
 Read:
 
+- `docs/how-to-use-this-repo.md`
+- `docs/learning-method.md`
+- `docs/zero-to-advanced-study-plan.md`
 - `roadmaps/00-foundation-roadmap.md`
 - `LINUX/README.md`
 - `Networking/README.md`
@@ -74,7 +77,7 @@ When you learn something clearly, contribute:
 - Interview questions
 - Validated official links
 
-Read `CONTRIBUTING.md` first.
+Read `CONTRIBUTING.md` and `docs/contribution-workflow.md` first.
 
 ## Reminder
 

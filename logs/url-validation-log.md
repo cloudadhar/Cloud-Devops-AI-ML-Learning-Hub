@@ -43,6 +43,16 @@ This log records starter links checked while creating the repository. Prefer the
 | GeeksforGeeks system design tutorial | https://www.geeksforgeeks.org/system-design/system-design-tutorial/ | Valid | System design learning reference. |
 | Nginx documentation | https://nginx.org/en/docs/ | Valid | Official Nginx documentation. |
 | Kong Gateway documentation | https://docs.konghq.com/gateway/latest/ | Valid | Official Kong Gateway documentation route; redirects to current developer docs. |
+| Git documentation | https://git-scm.com/doc | Valid | Official Git documentation route. |
+| Node.js learning docs | https://nodejs.org/en/learn | Valid | Official Node.js learning documentation; redirects to current learn page. |
+| React Learn | https://react.dev/learn | Valid | Official React learning docs. |
+| PostgreSQL documentation | https://www.postgresql.org/docs/ | Valid | Official PostgreSQL docs. |
+| MongoDB documentation | https://www.mongodb.com/docs/ | Valid | Official MongoDB docs. |
+| FastAPI documentation | https://fastapi.tiangolo.com/ | Valid | Official FastAPI docs. |
+| Python documentation | https://docs.python.org/3/ | Valid | Official Python 3 docs. |
+| Bash manual | https://www.gnu.org/software/bash/manual/bash.html | Valid | GNU Bash reference manual. |
+| MDN Learn Web Development | https://developer.mozilla.org/en-US/docs/Learn_web_development | Valid | MDN web development learning path. |
+| OWASP Top 10 | https://owasp.org/www-project-top-ten/ | Valid | OWASP web application security risks. |
 
 ## Contributor Process
 

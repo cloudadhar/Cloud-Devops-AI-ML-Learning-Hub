@@ -57,3 +57,8 @@ Read [stacks/ai-ml-mlops-tool-stack.md](../stacks/ai-ml-mlops-tool-stack.md) for
 - [Amazon SageMaker AI documentation](https://docs.aws.amazon.com/sagemaker/) - AWS ML platform.
 - [Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning/) - Azure ML platform.
 - [Google Cloud AI documentation](https://cloud.google.com/vertex-ai/docs) - current Google Cloud AI documentation route.
+
+
+## Supporting Docs
+
+- [MLOps Lifecycle Notes](mlops-lifecycle-notes.md)

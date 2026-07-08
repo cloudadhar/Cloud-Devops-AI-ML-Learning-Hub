@@ -56,3 +56,8 @@ Read [stacks/devops-tool-stack.md](../stacks/devops-tool-stack.md) for a complet
 - One monitoring dashboard
 - One incident postmortem
 - One architecture diagram
+
+
+## Supporting Docs
+
+- [DevOps Lifecycle Detailed Notes](devops-lifecycle-detailed.md)

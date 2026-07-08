@@ -32,3 +32,8 @@
 - [AWS Well-Architected](https://docs.aws.amazon.com/wellarchitected/latest/framework/) - architecture best practices.
 - [AWS IAM User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/) - identity and access management.
 - [AWS Cost Management](https://docs.aws.amazon.com/cost-management/) - billing and cost optimization.
+
+
+## Supporting Docs
+
+- [AWS Core Services Notes](core-services-notes.md)

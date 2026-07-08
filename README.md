@@ -15,6 +15,25 @@ Inspired by the broad folder-based style of [Tikam02/DevOps-Guide](https://githu
 - [Certification Guidance](certifications/certification-guidance.md)
 - [Roadmap Index](ROADMAP_INDEX.md)
 - [Technology Stack Maps](stacks/README.md)
+- [Hands-on Labs](labs/README.md)
+
+
+## Detailed Learning System
+
+| Need | Guide |
+| --- | --- |
+| How to use the repo | [docs/how-to-use-this-repo.md](docs/how-to-use-this-repo.md) |
+| Learning method | [docs/learning-method.md](docs/learning-method.md) |
+| Zero-to-advanced plan | [docs/zero-to-advanced-study-plan.md](docs/zero-to-advanced-study-plan.md) |
+| Weekly practice plan | [docs/weekly-practice-plan.md](docs/weekly-practice-plan.md) |
+| Interview preparation | [docs/interview-preparation-guide.md](docs/interview-preparation-guide.md) |
+| Portfolio and GitHub guide | [docs/portfolio-github-guide.md](docs/portfolio-github-guide.md) |
+| Tool selection | [docs/tool-selection-guide.md](docs/tool-selection-guide.md) |
+| URL validation policy | [docs/url-research-validation-policy.md](docs/url-research-validation-policy.md) |
+| Contribution workflow | [docs/contribution-workflow.md](docs/contribution-workflow.md) |
+| Production readiness | [docs/production-readiness-checklist.md](docs/production-readiness-checklist.md) |
+| Troubleshooting method | [docs/troubleshooting-method.md](docs/troubleshooting-method.md) |
+| Hands-on labs | [labs/README.md](labs/README.md) |
 
 ## Learning Domains
 
@@ -77,7 +96,8 @@ See:
 ├── AI-ML-MLOps/ Agentic-AI/
 ├── Observability/ LINUX/ Networking/ Tools/
 ├── Interview/ Books/
-├── roadmaps/ projects/ certifications/ demo/ terraform/
+├── docs/ stacks/ labs/ roadmaps/ projects/ certifications/
+├── demo/ terraform/ logs/
 ├── logs/url-validation-log.md
 ├── CONTRIBUTING.md
 └── README.md

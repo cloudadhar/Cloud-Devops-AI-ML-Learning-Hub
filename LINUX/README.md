@@ -44,3 +44,8 @@ crontab -e
 - Write a backup shell script.
 - Debug a failed service.
 - Rotate and inspect logs.
+
+
+## Supporting Docs
+
+- [Commands and Practice](commands-and-practice.md)

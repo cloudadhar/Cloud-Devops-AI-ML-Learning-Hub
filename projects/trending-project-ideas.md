@@ -59,3 +59,8 @@ For every project, explain:
 5. GitHub link
 6. What you learned
 7. What you will improve next
+
+
+## Supporting Docs
+
+- [Project Rubric](project-rubric.md)

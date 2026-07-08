@@ -43,3 +43,8 @@
 - Container scan report
 - Incident response report
 - Secure Nginx or Kong gateway configuration review
+
+
+## Supporting Docs
+
+- [DevSecOps Checklists](devsecops-checklists.md)

@@ -44,3 +44,8 @@
 - Validate generated commands before execution.
 - Add tests and evaluation examples.
 - Keep system prompts and policies versioned.
+
+
+## Supporting Docs
+
+- [RAG and Agent Notes](rag-and-agent-notes.md)
