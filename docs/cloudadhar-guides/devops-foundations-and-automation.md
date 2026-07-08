@@ -1,10 +1,10 @@
 # DevOps Foundations and Automation Detailed Guide
 
-This guide covers foundational DevOps, Bash/Python automation, testing, mistakes, prerequisites, and broad infrastructure knowledge resources from the freeCodeCamp list.
+This guide covers foundational DevOps, Bash/Python automation, testing, mistakes, prerequisites, and broad infrastructure knowledge resources from the CloudAdhar list.
 
 ## 1. Bash And Python For Real DevOps Automation
 
-Reference: [How to Use Bash and Python for Real DevOps Automation](https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/)
+Reference: How to Use Bash and Python for Real DevOps Automation
 
 ### Learning Goal
 
@@ -28,7 +28,7 @@ Create three scripts:
 
 - Bash health check for disk, memory, and service status
 - Python log report generator
-- Deployment verification script that checks URLs and status codes
+- Deployment verification script that checks topics and status codes
 
 ### Deliverables
 
@@ -48,7 +48,7 @@ Create three scripts:
 
 ## 2. Common DevOps Mistakes And How To Avoid Them
 
-Reference: [How to Avoid DevOps Mistakes](https://www.freecodecamp.org/news/how-to-avoid-devops-mistakes/)
+Reference: How to Avoid DevOps Mistakes
 
 ### Learning Goal
 
@@ -91,7 +91,7 @@ Review one of your CI/CD projects and mark:
 
 ## 3. Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, And Linux
 
-Reference: [Learn Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, and Linux](https://www.freecodecamp.org/news/learn-hardware-cloud-devops-networking-security-databases-dns-git-and-linux/)
+Reference: Learn Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, and Linux
 
 ### Learning Goal
 
@@ -129,7 +129,7 @@ Deploy a simple web app on a Linux VM:
 
 ### Interview Questions
 
-1. What happens when you open a URL in a browser?
+1. What happens when you open a topic in a browser?
 2. How do Linux permissions work?
 3. What is the difference between process and service?
 4. Why does DNS matter in cloud deployments?
@@ -137,7 +137,7 @@ Deploy a simple web app on a Linux VM:
 
 ## 4. How DevOps Works
 
-Reference: [How DevOps Works](https://www.freecodecamp.org/news/how-devops-works/)
+Reference: How DevOps Works
 
 ### Learning Goal
 
@@ -178,7 +178,7 @@ Plan -> Code -> Commit -> CI -> Test -> Build -> Scan -> Deploy -> Monitor -> Im
 
 ## 5. What Is DevTestOps
 
-Reference: [What is DevTestOps?](https://www.freecodecamp.org/news/what-is-devtestops/)
+Reference: What is DevTestOps?
 
 ### Learning Goal
 
@@ -219,7 +219,7 @@ Add a test strategy to any existing project:
 
 ## 6. DevOps Engineering Course For Beginners
 
-Reference: [DevOps Engineering Course for Beginners](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
+Reference: DevOps Engineering Course for Beginners
 
 ### Learning Goal
 
@@ -262,7 +262,7 @@ GitHub repo -> GitHub Actions -> Docker image -> Linux VM -> Nginx -> logs
 
 ## 7. DevOps Prerequisites Course
 
-Reference: [DevOps Prerequisites Course](https://www.freecodecamp.org/news/devops-prerequisites-course/)
+Reference: DevOps Prerequisites Course
 
 ### Learning Goal
 
@@ -309,7 +309,7 @@ Prepare a Linux VM for app hosting:
 
 ## 8. Create React App DevOps Automation
 
-Reference: [Let's Write Create React App DevOps Together](https://www.freecodecamp.org/news/lets-write-create-react-app-devops-together-dc19512c6fbb/)
+Reference: Let's Write Create React App DevOps Together
 
 ### Learning Goal
 
@@ -335,7 +335,7 @@ Build a small portfolio frontend and deploy it through CI/CD.
 - Frontend app
 - CI workflow
 - Build logs
-- Deployment URL
+- Deployment topic
 - Rollback notes
 
 ### Interview Questions

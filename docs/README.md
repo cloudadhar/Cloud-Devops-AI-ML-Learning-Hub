@@ -9,8 +9,8 @@ This folder explains how to use the repository as a complete learning system, no
 - [30-60-90 Learner Focus Plan](learner-focus-30-60-90.md)
 - [Projects](../projects/README.md)
 - [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)
-- [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
-- [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md)
+- [CloudAdhar Learning Map](cloudadhar-learning-map.md)
+- [Detailed CloudAdhar Study Guides](cloudadhar-guides/README.md)
 - [Tool Deep Dives](../tool-guides/README.md)
 - [How to Use This Repository](how-to-use-this-repo.md)
 - [Learning Method](learning-method.md)
@@ -26,11 +26,11 @@ This folder explains how to use the repository as a complete learning system, no
 - [URL Research and Validation Policy](url-research-validation-policy.md)
 - [Contribution Workflow](contribution-workflow.md)
 
-## Curated External References
+## CloudAdhar Study Modules
 
-- [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
-- [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md)
-- [freeCodeCamp URL Validation Log](../logs/freecodecamp-url-validation-2026-07-08.md)
+- [CloudAdhar Learning Map](cloudadhar-learning-map.md)
+- [Detailed CloudAdhar Study Guides](cloudadhar-guides/README.md)
+- [CloudAdhar Topic Coverage Log](../logs/cloudadhar-topic-validation-2026-07-08.md)
 
 ## Supporting Technical Notes
 

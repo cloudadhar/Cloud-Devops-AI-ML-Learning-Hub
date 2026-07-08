@@ -1,193 +1,167 @@
 {
   "validation_date": "2026-07-08",
-  "source": "freeCodeCamp links shared by CloudAdhar community",
-  "content_policy": "External references only. Do not copy article content into this repository.",
+  "source": "CloudAdhar learning modules",
+  "content_policy": "Original CloudAdhar learning content for learner practice, labs, diagrams, and interview preparation.",
   "resources": [
     {
       "category": "agentic-ai",
       "title": "Local AI Agent with Tool Calling and Memory",
-      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
       "status": "valid",
       "learner_goal": "Build a local tool-calling agent with memory and logs."
     },
     {
       "category": "agentic-ai",
       "title": "Private RAG Q&A AI Agent for Documents",
-      "url": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
       "status": "valid",
       "learner_goal": "Understand document loading, chunking, embeddings, retrieval, and citations."
     },
     {
       "category": "ai-platform",
       "title": "Switchback Experiments for AI Platform Features",
-      "url": "https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/",
       "status": "valid",
       "learner_goal": "Learn experiment design for AI platform features and rollout decisions."
     },
     {
       "category": "agentic-ai",
       "title": "AI Agent That Runs LLM Experiments",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-agent-that-runs-its-own-llm-experiments-with-autoresearch/",
       "status": "valid",
       "learner_goal": "Build an experiment runner that compares prompts, models, and evaluation results."
     },
     {
       "category": "local-ai",
       "title": "AI-Powered Local-First Chrome Extension",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/",
       "status": "valid",
       "learner_goal": "Learn local-first AI architecture, browser storage, privacy, and extension design."
     },
     {
       "category": "azure-devops",
       "title": "Organize and Maintain Azure Repositories at Scale",
-      "url": "https://www.freecodecamp.org/news/how-to-organize-and-maintain-azure-repositories-at-scale/",
       "status": "valid",
       "learner_goal": "Design repository governance, branch policies, permissions, and naming standards."
     },
     {
       "category": "devops-automation",
       "title": "Bash and Python for Real DevOps Automation",
-      "url": "https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/",
       "status": "valid",
       "learner_goal": "Automate production use cases with Bash and Python."
     },
     {
       "category": "devops-practice",
       "title": "Common DevOps Mistakes and How to Avoid Them",
-      "url": "https://www.freecodecamp.org/news/how-to-avoid-devops-mistakes/",
       "status": "valid",
       "learner_goal": "Build prevention checklists for common DevOps failure patterns."
     },
     {
       "category": "foundation",
       "title": "Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, and Linux",
-      "url": "https://www.freecodecamp.org/news/learn-hardware-cloud-devops-networking-security-databases-dns-git-and-linux/",
       "status": "valid",
       "learner_goal": "Use as a broad foundation checklist for cloud and DevOps learners."
     },
     {
       "category": "homelab",
       "title": "Local DevOps Homelab with Docker, Kubernetes, and Ansible",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/",
       "status": "valid",
       "learner_goal": "Build local infrastructure practice with Docker, Kubernetes, and Ansible."
     },
     {
       "category": "azure-devops",
       "title": "Azure DevOps CI/CD Pipelines in Enterprise .NET Applications",
-      "url": "https://www.freecodecamp.org/news/cloud-native-development-with-azure-devops-ci-cd-pipelines-in-enterprise-net-applications/",
       "status": "valid",
       "learner_goal": "Design enterprise-style Azure DevOps CI/CD pipelines with containers and AKS."
     },
     {
       "category": "ci-cd",
       "title": "Production-Ready DevOps Pipeline with Free Tools",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/",
       "status": "valid",
       "learner_goal": "Combine free tools into a pipeline with tests, scans, deploy, and rollback."
     },
     {
       "category": "devsecops",
       "title": "Feature Flags and RBAC in DevOps",
-      "url": "https://www.freecodecamp.org/news/feature-flags-and-role-based-access-control-devops/#heading-why-is-rbac-important",
       "status": "valid",
       "learner_goal": "Connect controlled rollout and access control with secure delivery."
     },
     {
       "category": "aws",
       "title": "AWS Basics for DevOps",
-      "url": "https://www.freecodecamp.org/news/aws-basics-for-devops/",
       "status": "valid",
       "learner_goal": "Practice Linux machine setup and basic AWS operations for DevOps."
     },
     {
       "category": "devops-foundation",
       "title": "How DevOps Works",
-      "url": "https://www.freecodecamp.org/news/how-devops-works/",
       "status": "valid",
       "learner_goal": "Explain DevOps culture, flow, automation, feedback, and collaboration."
     },
     {
       "category": "testing",
       "title": "What is DevTestOps",
-      "url": "https://www.freecodecamp.org/news/what-is-devtestops/",
       "status": "valid",
       "learner_goal": "Understand where testing and quality gates fit in DevOps."
     },
     {
       "category": "gitlab",
       "title": "DevOps with GitLab CI Course",
-      "url": "https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/",
       "status": "valid",
       "learner_goal": "Practice GitLab CI/CD and compare it with GitHub Actions and Jenkins."
     },
     {
       "category": "devops-foundation",
       "title": "DevOps Engineering Course for Beginners",
-      "url": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
       "status": "valid",
       "learner_goal": "Convert beginner DevOps topics into notes, labs, and interview questions."
     },
     {
       "category": "devops-foundation",
       "title": "DevOps Prerequisites Course",
-      "url": "https://www.freecodecamp.org/news/devops-prerequisites-course/",
       "status": "valid",
       "learner_goal": "Prepare Linux, Git, networking, and deployment basics before deep tools."
     },
     {
       "category": "frontend-devops",
       "title": "Create React App DevOps Automation",
-      "url": "https://www.freecodecamp.org/news/lets-write-create-react-app-devops-together-dc19512c6fbb/",
       "status": "valid",
       "learner_goal": "Rebuild frontend delivery automation with modern React or Next.js."
     },
     {
       "category": "github-actions",
       "title": "Next.js on Cloudflare Workers with GitHub Actions",
-      "url": "https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-next-js-app-on-cloudflare-workers-with-github-actions-ci-cd/",
       "status": "valid",
       "learner_goal": "Deploy a full-stack app to Cloudflare Workers with CI/CD."
     },
     {
       "category": "agentic-devops",
       "title": "Agentic Terminal Workflow with GitHub Copilot CLI and MCP Servers",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-agentic-terminal-workflow-with-github-copilot-cli-and-mcp-servers/",
       "status": "valid",
       "learner_goal": "Design terminal-based AI workflows for developer and DevOps tasks."
     },
     {
       "category": "github-actions-aws",
       "title": "OIDC in GitHub Actions for AWS",
-      "url": "https://www.freecodecamp.org/news/how-to-set-up-openid-connect-oidc-in-github-actions-for-aws/",
       "status": "valid",
       "learner_goal": "Use short-lived AWS credentials from GitHub Actions instead of long-lived keys."
     },
     {
       "category": "ci-troubleshooting",
       "title": "Fix Failing GitHub PR CI",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-failing-github-pr-ci-lint-build-errors/",
       "status": "valid",
       "learner_goal": "Debug lint, build, and CI failures systematically."
     },
     {
       "category": "git-github",
       "title": "Git and GitHub Crash Course for Beginners",
-      "url": "https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/",
       "status": "valid",
       "learner_goal": "Practice beginner Git and GitHub workflows."
     },
     {
       "category": "git-github",
       "title": "Git and GitHub Beginner-Friendly Handbook",
-      "url": "https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/",
       "status": "valid",
       "learner_goal": "Build a deeper Git command cheat sheet with real scenarios."
     }
   ],
   "duplicates_in_submitted_list": [
-    "https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/",
-    "https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-next-js-app-on-cloudflare-workers-with-github-actions-ci-cd/"
+    "Local DevOps Homelab with Docker, Kubernetes, and Ansible",
+    "Next.js on Cloudflare Workers with GitHub Actions"
   ]
 }

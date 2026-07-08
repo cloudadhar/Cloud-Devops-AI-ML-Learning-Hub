@@ -43,8 +43,8 @@ Use this page when the repo feels too large. Pick your goal and open only the ma
 3. [AI, ML, and MLOps](../tool-guides/ai-ml/ai-ml-mlops.md)
 4. [RAG and Agentic AI](../tool-guides/ai-ml/rag-agentic-ai.md)
 5. [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)
-6. [Agentic AI and RAG Detailed Guide](freecodecamp-guides/agentic-ai-and-rag.md)
-7. [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
+6. [Agentic AI and RAG Detailed Guide](cloudadhar-guides/agentic-ai-and-rag.md)
+7. [CloudAdhar Learning Map](cloudadhar-learning-map.md)
 8. [MLOps Lifecycle Notes](../AI-ML-MLOps/mlops-lifecycle-notes.md)
 
 ## I Want Interview Preparation
@@ -53,15 +53,15 @@ Use this page when the repo feels too large. Pick your goal and open only the ma
 2. [Interview Question Bank](../Interview/question-bank.md)
 3. [Project Rubric](../projects/project-rubric.md)
 4. [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)
-5. [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md)
-6. [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
+5. [Detailed CloudAdhar Study Guides](cloudadhar-guides/README.md)
+6. [CloudAdhar Learning Map](cloudadhar-learning-map.md)
 7. [Portfolio and GitHub Guide](portfolio-github-guide.md)
 
-## I Want External Reference Material
+## I Want CloudAdhar Study Material
 
-1. [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
-2. [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md)
-3. [freeCodeCamp URL Validation Log](../logs/freecodecamp-url-validation-2026-07-08.md)
+1. [CloudAdhar Learning Map](cloudadhar-learning-map.md)
+2. [Detailed CloudAdhar Study Guides](cloudadhar-guides/README.md)
+3. [CloudAdhar Topic Coverage Log](../logs/cloudadhar-topic-validation-2026-07-08.md)
 4. [URL Research and Validation Policy](url-research-validation-policy.md)
 5. [Content Originality Policy](content-originality-policy.md)
 

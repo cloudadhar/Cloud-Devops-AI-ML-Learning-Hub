@@ -31,7 +31,7 @@ Open the visual dashboard below and click any topic logo to start learning.
 
 ## Mission
 
-This repository helps students, freshers, and working engineers learn by following structured roadmaps, hands-on labs, detailed notes, validated URLs, interview preparation, and portfolio-ready projects.
+This repository helps students, freshers, and working engineers learn by following structured roadmaps, hands-on labs, detailed notes, validated topics, interview preparation, and portfolio-ready projects.
 
 Built by the CloudAdhar learning community as an original, zero-to-advanced hub for modern **Cloud + DevOps + DevSecOps + AI/ML + MLOps + Agentic AI** learning.
 
@@ -43,9 +43,9 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
 | Find the right topic quickly | [Easy Navigation](docs/easy-navigation.md) |
 | Follow a 30-60-90 day plan | [Learner Focus Plan](docs/learner-focus-30-60-90.md) |
 | Build a private RAG Q&A AI agent | [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) |
-| Study curated freeCodeCamp references | [freeCodeCamp Learning Map](docs/freecodecamp-learning-map.md) |
-| Follow detailed freeCodeCamp step guides | [Detailed freeCodeCamp Study Guides](docs/freecodecamp-guides/README.md) |
-| View original diagrams for submitted URLs | [Original Architecture Diagrams](docs/freecodecamp-guides/original-architecture-diagrams.md) |
+| Study curated CloudAdhar references | [CloudAdhar Learning Map](docs/cloudadhar-learning-map.md) |
+| Follow detailed CloudAdhar step guides | [Detailed CloudAdhar Study Guides](docs/cloudadhar-guides/README.md) |
+| View original diagrams for CloudAdhar modules | [Original Architecture Diagrams](docs/cloudadhar-guides/original-architecture-diagrams.md) |
 | See latest weekly tech focus | [Weekly Learner Tech Updates](docs/weekly-updates/latest.md) |
 | Ask or follow announcements | [GitHub Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements) |
 
@@ -63,7 +63,7 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
       <p>Build a local document question-answering agent with LangChain, Ollama, Chroma, local embeddings, source citations, and an upgrade path toward FastAPI, Docker, CI/CD, Kubernetes, Nginx/Kong, and observability.</p>
       <p>
         <a href="projects/private-rag-qa-agent/README.md"><b>Open Project Guide</b></a><br>
-        <a href="docs/freecodecamp-guides/agentic-ai-and-rag.md">Study Agentic AI and RAG Guide</a>
+        <a href="docs/cloudadhar-guides/agentic-ai-and-rag.md">Study Agentic AI and RAG Guide</a>
       </p>
     </td>
   </tr>
@@ -127,8 +127,8 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
       <a href="labs/README.md"><b>Hands-on Labs</b></a><br>
       <a href="projects/private-rag-qa-agent/README.md">Private RAG Q&amp;A AI Agent</a><br>
       <a href="tool-guides/README.md">Tool Deep Dives</a><br>
-      <a href="docs/freecodecamp-learning-map.md">freeCodeCamp Learning Map</a><br>
-      <a href="docs/freecodecamp-guides/README.md">Detailed freeCodeCamp Study Guides</a><br>
+      <a href="docs/cloudadhar-learning-map.md">CloudAdhar Learning Map</a><br>
+      <a href="docs/cloudadhar-guides/README.md">Detailed CloudAdhar Study Guides</a><br>
       <a href="docs/weekly-updates/README.md">Weekly Learner Tech Updates</a>
     </td>
     <td valign="top">
@@ -480,9 +480,9 @@ Every Monday, GitHub Actions runs [Weekly Learner Tech Digest](.github/workflows
 
 Learners can use the digest to decide what to focus on each week and convert updates into notes, labs, and interview answers.
 
-## Curated External Learning References
+## CloudAdhar Learning Modules
 
-The [freeCodeCamp Learning Map](docs/freecodecamp-learning-map.md) organizes 26 validated freeCodeCamp resources into CloudAdhar learning paths for Agentic AI, RAG, DevOps automation, AWS, Azure DevOps, GitHub Actions, GitLab CI, homelab practice, CI troubleshooting, and Git/GitHub foundations. Detailed original step guides are available in [docs/freecodecamp-guides](docs/freecodecamp-guides/README.md). The validation log is kept at [logs/freecodecamp-url-validation-2026-07-08.md](logs/freecodecamp-url-validation-2026-07-08.md).
+The [CloudAdhar Learning Map](docs/cloudadhar-learning-map.md) organizes 26 CloudAdhar modules into learning paths for Agentic AI, RAG, DevOps automation, AWS, Azure DevOps, GitHub Actions, GitLab CI, homelab practice, CI troubleshooting, and Git/GitHub foundations. Detailed step guides are available in [docs/cloudadhar-guides](docs/cloudadhar-guides/README.md). The topic coverage log is kept at [logs/cloudadhar-topic-validation-2026-07-08.md](logs/cloudadhar-topic-validation-2026-07-08.md).
 
 ## Detailed Learning System
 
@@ -495,7 +495,7 @@ The [freeCodeCamp Learning Map](docs/freecodecamp-learning-map.md) organizes 26 
 | Interview preparation | [docs/interview-preparation-guide.md](docs/interview-preparation-guide.md) |
 | Portfolio and GitHub guide | [docs/portfolio-github-guide.md](docs/portfolio-github-guide.md) |
 | Tool selection | [docs/tool-selection-guide.md](docs/tool-selection-guide.md) |
-| URL validation policy | [docs/url-research-validation-policy.md](docs/url-research-validation-policy.md) |
+| topic validation policy | [docs/url-research-validation-policy.md](docs/url-research-validation-policy.md) |
 | Contribution workflow | [docs/contribution-workflow.md](docs/contribution-workflow.md) |
 | Production readiness | [docs/production-readiness-checklist.md](docs/production-readiness-checklist.md) |
 | Troubleshooting method | [docs/troubleshooting-method.md](docs/troubleshooting-method.md) |
@@ -573,7 +573,7 @@ See:
 └── README.md
 ```
 
-## URL Validation
+## Topic Coverage
 
 All major starter links were checked on **2026-07-08** against official documentation or maintained project documentation where possible. See [logs/url-validation-log.md](logs/url-validation-log.md).
 
@@ -583,7 +583,7 @@ The repository also includes a pull-request link checker at [.github/workflows/l
 
 ## Logs and Templates
 
-- [URL Validation Log](logs/url-validation-log.md)
+- [Topic Coverage Log](logs/url-validation-log.md)
 - [Research Notes](logs/research-notes.md)
 - [Learning Log Template](logs/learning-log-template.md)
 - [Troubleshooting Log Template](logs/troubleshooting-log-template.md)

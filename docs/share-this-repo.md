@@ -17,11 +17,11 @@ It includes roadmaps, hands-on labs, tool deep dives, interview prep, weekly tec
 Featured project:
 projects/private-rag-qa-agent/README.md
 
-Curated freeCodeCamp references:
-docs/freecodecamp-learning-map.md
+Curated CloudAdhar references:
+docs/cloudadhar-learning-map.md
 
 Detailed step guides:
-docs/freecodecamp-guides/README.md
+docs/cloudadhar-guides/README.md
 
 Start here:
 1. STUDENT_START_HERE.md
@@ -52,16 +52,16 @@ What is inside:
 - Interview questions
 - Weekly technology update automation
 - Project ideas and portfolio guidance
-- Curated freeCodeCamp reference map with validation log
-- Detailed freeCodeCamp step guides rewritten in CloudAdhar learning format
+- Curated CloudAdhar learning map with topic coverage log
+- Detailed CloudAdhar step guides rewritten in CloudAdhar learning format
 
 Best start path:
 1. Read STUDENT_START_HERE.md
 2. Follow docs/zero-to-advanced-study-plan.md
 3. Pick one track from ROADMAP_INDEX.md
 4. Build labs from labs/README.md
-5. Use docs/freecodecamp-learning-map.md for external reference material
-6. Follow docs/freecodecamp-guides/README.md for detailed practice steps
+5. Use docs/cloudadhar-learning-map.md for CloudAdhar module practice
+6. Follow docs/cloudadhar-guides/README.md for detailed practice steps
 7. Prepare interviews using docs/interview-preparation-guide.md
 ```
 
@@ -79,8 +79,8 @@ The repo includes:
 - Private RAG Q&A AI agent project with local documents, embeddings, vector DB, and citations
 - Hands-on labs and interview preparation
 - Weekly learner-focused tech update automation
-- Curated freeCodeCamp resource map with validation log
-- Detailed original study guides for every submitted freeCodeCamp URL
+- Curated CloudAdhar learning map with topic coverage log
+- Detailed original study guides for every CloudAdhar module
 
 Repo:
 https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub
@@ -99,8 +99,8 @@ If you are starting your tech journey, begin with STUDENT_START_HERE.md and buil
 | AI/ML learner | [AI / ML / MLOps Guide](../AI-ML-MLOps/README.md) |
 | Interview candidate | [Interview Preparation Guide](interview-preparation-guide.md) |
 | Project builder | [Private RAG Q&A AI Agent](../projects/private-rag-qa-agent/README.md) |
-| External reference seeker | [freeCodeCamp Learning Map](freecodecamp-learning-map.md) |
-| Step-by-step learner | [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md) |
+| CloudAdhar module learner | [CloudAdhar Learning Map](cloudadhar-learning-map.md) |
+| Step-by-step learner | [Detailed CloudAdhar Study Guides](cloudadhar-guides/README.md) |
 | Contributor | [Contributing Guide](../CONTRIBUTING.md) |
 
 ## Community Links

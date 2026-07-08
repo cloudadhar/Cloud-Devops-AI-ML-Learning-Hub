@@ -1,8 +1,8 @@
-# Original Architecture Diagrams For Submitted freeCodeCamp Topics
+# Original Architecture Diagrams For Submitted CloudAdhar Topics
 
-These diagrams are original CloudAdhar learning visuals created for this repository. They are not copied screenshots or diagrams from freeCodeCamp articles. Use them with the detailed study guides to understand the same concepts in a copyright-safe way.
+These diagrams are CloudAdhar learning visuals created for this repository. Use them with the detailed study guides to understand the architecture, workflow, and implementation sequence for each module.
 
-Source map: [freeCodeCamp Learning Map](../freecodecamp-learning-map.md)
+Source map: [CloudAdhar Learning Map](../cloudadhar-learning-map.md)
 
 Detailed guides:
 
@@ -14,8 +14,6 @@ Detailed guides:
 ## Agentic AI, RAG, And Local AI
 
 ### 1. Local AI Agent With Tool Calling And Memory
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/)
 
 ```mermaid
 flowchart LR
@@ -42,8 +40,6 @@ Learner build flow:
 
 ### 2. Private RAG Q&A Agent For Documents
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/)
-
 ```mermaid
 flowchart TD
     D[PDF, Markdown, text files] --> L[Document loader]
@@ -68,8 +64,6 @@ Learner build flow:
 5. Generate grounded answers with source names.
 
 ### 3. Switchback Experiments For AI Platform Features
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/)
 
 ```mermaid
 flowchart LR
@@ -96,8 +90,6 @@ Learner build flow:
 
 ### 4. AI Agent That Runs LLM Experiments
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/build-an-ai-agent-that-runs-its-own-llm-experiments-with-autoresearch/)
-
 ```mermaid
 flowchart TD
     G[Experiment goal] --> C[Candidate prompts and models]
@@ -120,8 +112,6 @@ Learner build flow:
 
 ### 5. AI-Powered Local-First Chrome Extension
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/)
-
 ```mermaid
 flowchart LR
     Page[Browser page] --> Select[Selected text]
@@ -143,8 +133,6 @@ Learner build flow:
 4. Handle local model unavailable errors.
 
 ### 6. Agentic Terminal Workflow With GitHub Copilot CLI And MCP Servers
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-build-an-agentic-terminal-workflow-with-github-copilot-cli-and-mcp-servers/)
 
 ```mermaid
 flowchart TD
@@ -171,8 +159,6 @@ Learner build flow:
 
 ### 7. Bash And Python For Real DevOps Automation
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/)
-
 ```mermaid
 flowchart LR
     Task[Ops task] --> Manual[Run manually once]
@@ -187,8 +173,6 @@ flowchart LR
 
 ### 8. Common DevOps Mistakes And Prevention
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-avoid-devops-mistakes/)
-
 ```mermaid
 flowchart TD
     Mistake[Common mistake] --> Impact[Production impact]
@@ -200,8 +184,6 @@ flowchart TD
 ```
 
 ### 9. Foundation Map For Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, And Linux
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/learn-hardware-cloud-devops-networking-security-databases-dns-git-and-linux/)
 
 ```mermaid
 flowchart TB
@@ -218,8 +200,6 @@ flowchart TB
 
 ### 10. How DevOps Works
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-devops-works/)
-
 ```mermaid
 flowchart LR
     Plan --> Code --> Build --> Test --> Release --> Deploy --> Operate --> Monitor --> Feedback
@@ -227,8 +207,6 @@ flowchart LR
 ```
 
 ### 11. DevTestOps Flow
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/what-is-devtestops/)
 
 ```mermaid
 flowchart LR
@@ -245,8 +223,6 @@ flowchart LR
 
 ### 12. Beginner DevOps Engineering Path
 
-Reference: [freeCodeCamp course](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
-
 ```mermaid
 flowchart TD
     Linux[Linux basics] --> Git[Git and GitHub]
@@ -259,8 +235,6 @@ flowchart TD
 ```
 
 ### 13. DevOps Prerequisites Path
-
-Reference: [freeCodeCamp course](https://www.freecodecamp.org/news/devops-prerequisites-course/)
 
 ```mermaid
 flowchart LR
@@ -275,8 +249,6 @@ flowchart LR
 
 ### 14. Frontend DevOps Automation
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/lets-write-create-react-app-devops-together-dc19512c6fbb/)
-
 ```mermaid
 flowchart LR
     Dev[Frontend code] --> Lint[Lint and format]
@@ -284,14 +256,12 @@ flowchart LR
     Test --> Build[Production build]
     Build --> Artifact[Static assets]
     Artifact --> Deploy[Deploy to hosting]
-    Deploy --> Verify[Smoke test URL]
+    Deploy --> Verify[Smoke test topic]
 ```
 
 ## Cloud, CI/CD, Security, And Platforms
 
 ### 15. Azure Repositories At Scale
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-organize-and-maintain-azure-repositories-at-scale/)
 
 ```mermaid
 flowchart TD
@@ -306,8 +276,6 @@ flowchart TD
 ```
 
 ### 16. Azure DevOps Enterprise CI/CD
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/cloud-native-development-with-azure-devops-ci-cd-pipelines-in-enterprise-net-applications/)
 
 ```mermaid
 flowchart LR
@@ -324,8 +292,6 @@ flowchart LR
 
 ### 17. Production-Ready DevOps Pipeline With Free Tools
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/)
-
 ```mermaid
 flowchart LR
     PR[Pull request] --> Lint
@@ -341,8 +307,6 @@ flowchart LR
 
 ### 18. Feature Flags And RBAC In DevOps
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/feature-flags-and-role-based-access-control-devops/#heading-why-is-rbac-important)
-
 ```mermaid
 flowchart TD
     User --> Auth[Authenticate]
@@ -356,8 +320,6 @@ flowchart TD
 ```
 
 ### 19. AWS Basics For DevOps
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/aws-basics-for-devops/)
 
 ```mermaid
 flowchart TD
@@ -373,8 +335,6 @@ flowchart TD
 
 ### 20. Local DevOps Homelab With Docker, Kubernetes, And Ansible
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/)
-
 ```mermaid
 flowchart TD
     Laptop[Local laptop] --> Docker[Docker runtime]
@@ -388,8 +348,6 @@ flowchart TD
 ```
 
 ### 21. DevOps With GitLab CI
-
-Reference: [freeCodeCamp course](https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/)
 
 ```mermaid
 flowchart LR
@@ -405,8 +363,6 @@ flowchart LR
 
 ### 22. Next.js On Cloudflare Workers With GitHub Actions
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-next-js-app-on-cloudflare-workers-with-github-actions-ci-cd/)
-
 ```mermaid
 flowchart LR
     Code[Next.js code] --> GitHub[GitHub repo]
@@ -415,13 +371,11 @@ flowchart LR
     Install --> Build[Build for Cloudflare runtime]
     Build --> Secrets[Use deployment secrets]
     Secrets --> Cloudflare[Deploy to Cloudflare Workers]
-    Cloudflare --> URL[Preview or production URL]
-    URL --> Verify[Verify routes and logs]
+    Cloudflare --> topic[Preview or production topic]
+    topic --> Verify[Verify routes and logs]
 ```
 
 ### 23. OIDC In GitHub Actions For AWS
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-set-up-openid-connect-oidc-in-github-actions-for-aws/)
 
 ```mermaid
 sequenceDiagram
@@ -443,8 +397,6 @@ sequenceDiagram
 
 ### 24. Fix Failing GitHub PR CI
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/how-to-fix-failing-github-pr-ci-lint-build-errors/)
-
 ```mermaid
 flowchart TD
     PR[Pull request] --> Fail[Failing check]
@@ -460,8 +412,6 @@ flowchart TD
 
 ### 25. Git And GitHub Crash Course
 
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/)
-
 ```mermaid
 flowchart LR
     Init[git init or clone] --> Status[git status]
@@ -475,8 +425,6 @@ flowchart LR
 ```
 
 ### 26. Git And GitHub Beginner Handbook
-
-Reference: [freeCodeCamp article](https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/)
 
 ```mermaid
 flowchart TD

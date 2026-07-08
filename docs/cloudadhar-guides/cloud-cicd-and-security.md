@@ -1,10 +1,10 @@
 # Cloud CI/CD and Security Detailed Guide
 
-This guide covers Azure DevOps, AWS, GitHub Actions, GitLab CI, OIDC, RBAC, feature flags, Cloudflare deployment, production pipelines, and homelab references from the freeCodeCamp list.
+This guide covers Azure DevOps, AWS, GitHub Actions, GitLab CI, OIDC, RBAC, feature flags, Cloudflare deployment, production pipelines, and homelab references from the CloudAdhar list.
 
 ## 1. Azure Repositories At Scale
 
-Reference: [How to Organize and Maintain Azure Repositories at Scale](https://www.freecodecamp.org/news/how-to-organize-and-maintain-azure-repositories-at-scale/)
+Reference: How to Organize and Maintain Azure Repositories at Scale
 
 ### Learning Goal
 
@@ -43,7 +43,7 @@ Design an Azure DevOps repo governance template for a company with application, 
 
 ## 2. Azure DevOps CI/CD For Enterprise .NET Applications
 
-Reference: [Cloud Native Development with Azure DevOps CI/CD Pipelines in Enterprise .NET Applications](https://www.freecodecamp.org/news/cloud-native-development-with-azure-devops-ci-cd-pipelines-in-enterprise-net-applications/)
+Reference: Cloud Native Development with Azure DevOps CI/CD Pipelines in Enterprise .NET Applications
 
 ### Learning Goal
 
@@ -86,7 +86,7 @@ Commit -> Build -> Test -> Scan -> Docker Build -> Registry -> Deploy -> Smoke T
 
 ## 3. Production-Ready DevOps Pipeline With Free Tools
 
-Reference: [How to Build a Production-Ready DevOps Pipeline with Free Tools](https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/)
+Reference: How to Build a Production-Ready DevOps Pipeline with Free Tools
 
 ### Learning Goal
 
@@ -122,7 +122,7 @@ Build a GitHub Actions pipeline using:
 - `.github/workflows/` pipeline
 - Pipeline diagram
 - Security scan output
-- Deployment URL
+- Deployment topic
 - Rollback notes
 
 ### Interview Questions
@@ -135,7 +135,7 @@ Build a GitHub Actions pipeline using:
 
 ## 4. Feature Flags And RBAC In DevOps
 
-Reference: [Feature Flags and Role-Based Access Control in DevOps](https://www.freecodecamp.org/news/feature-flags-and-role-based-access-control-devops/#heading-why-is-rbac-important)
+Reference: Feature Flags and Role-Based Access Control in DevOps
 
 ### Learning Goal
 
@@ -179,7 +179,7 @@ Create a small app with:
 
 ## 5. AWS Basics For DevOps
 
-Reference: [AWS Basics for DevOps](https://www.freecodecamp.org/news/aws-basics-for-devops/)
+Reference: AWS Basics for DevOps
 
 ### Learning Goal
 
@@ -226,7 +226,7 @@ Deploy a static Nginx page on EC2:
 
 ## 6. Local DevOps Homelab With Docker, Kubernetes, And Ansible
 
-Reference: [How to Build a Local DevOps Homelab with Docker, Kubernetes, and Ansible](https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/)
+Reference: How to Build a Local DevOps Homelab with Docker, Kubernetes, and Ansible
 
 ### Learning Goal
 
@@ -271,7 +271,7 @@ Laptop -> Docker -> kind/minikube -> sample app -> Ansible setup -> logs
 
 ## 7. DevOps With GitLab CI Course
 
-Reference: [DevOps with GitLab CI Course](https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/)
+Reference: DevOps with GitLab CI Course
 
 ### Learning Goal
 
@@ -315,7 +315,7 @@ Create the same pipeline in GitLab CI and GitHub Actions:
 
 ## 8. Next.js On Cloudflare Workers With GitHub Actions
 
-Reference: [How to Deploy a Full-Stack Next.js App on Cloudflare Workers with GitHub Actions CI/CD](https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-next-js-app-on-cloudflare-workers-with-github-actions-ci-cd/)
+Reference: How to Deploy a Full-Stack Next.js App on Cloudflare Workers with GitHub Actions CI/CD
 
 ### Learning Goal
 
@@ -341,7 +341,7 @@ Deploy a learner portfolio site with:
 - Projects page
 - API route if supported
 - GitHub Actions deployment
-- Production URL
+- Production topic
 
 ### Deliverables
 
@@ -361,7 +361,7 @@ Deploy a learner portfolio site with:
 
 ## 9. OIDC In GitHub Actions For AWS
 
-Reference: [How to Set Up OpenID Connect OIDC in GitHub Actions for AWS](https://www.freecodecamp.org/news/how-to-set-up-openid-connect-oidc-in-github-actions-for-aws/)
+Reference: How to Set Up OpenID Connect OIDC in GitHub Actions for AWS
 
 ### Learning Goal
 

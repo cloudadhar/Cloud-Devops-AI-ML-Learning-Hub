@@ -196,4 +196,3 @@ Build this project in three levels:
 - [LangChain Ollama provider docs](https://docs.langchain.com/oss/python/integrations/providers/ollama)
 - [Ollama download](https://ollama.com/download)
 - [Ollama nomic-embed-text model](https://ollama.com/library/nomic-embed-text)
-- [freeCodeCamp private RAG Q&A article](https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/)

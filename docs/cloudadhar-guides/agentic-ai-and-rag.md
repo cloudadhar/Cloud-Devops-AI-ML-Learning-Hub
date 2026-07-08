@@ -1,10 +1,10 @@
 # Agentic AI and RAG Detailed Guide
 
-This guide covers the Agentic AI, RAG, local AI, evaluation, and MCP workflow resources from the freeCodeCamp list.
+This guide covers the Agentic AI, RAG, local AI, evaluation, and MCP workflow resources from the CloudAdhar list.
 
 ## 1. Local AI Agent With Tool Calling And Memory
 
-Reference: [How to Build Your Own Local AI Agent with Tool Calling and Memory](https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/)
+Reference: How to Build Your Own Local AI Agent with Tool Calling and Memory
 
 ### Learning Goal
 
@@ -57,7 +57,7 @@ Build a local study assistant that can:
 
 ## 2. Private RAG Q&A Agent For Documents
 
-Reference: [Build a Private RAG Q&A AI Agent for Your Documents Using LangChain](https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/)
+Reference: Build a Private RAG Q&A AI Agent for Your Documents Using LangChain
 
 CloudAdhar project: [Private RAG Q&A AI Agent](../../projects/private-rag-qa-agent/README.md)
 
@@ -113,7 +113,7 @@ Use your own Cloud, DevOps, or Kubernetes notes as documents. Ask:
 
 ## 3. Switchback Experiments For AI Platform Features
 
-Reference: [Switchback Experiments for AI Platform Features in Python](https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/)
+Reference: Switchback Experiments for AI Platform Features in Python
 
 ### Learning Goal
 
@@ -160,7 +160,7 @@ Create a notebook that compares two RAG chunk sizes over alternating time window
 
 ## 4. AI Agent That Runs Its Own LLM Experiments
 
-Reference: [Build an AI Agent That Runs Its Own LLM Experiments with AutoResearch](https://www.freecodecamp.org/news/build-an-ai-agent-that-runs-its-own-llm-experiments-with-autoresearch/)
+Reference: Build an AI Agent That Runs Its Own LLM Experiments with AutoResearch
 
 ### Learning Goal
 
@@ -207,7 +207,7 @@ Build a prompt experiment runner for the private RAG project. Compare three syst
 
 ## 5. AI-Powered Local-First Chrome Extension
 
-Reference: [How to Build an AI-Powered Local-First Chrome Extension](https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/)
+Reference: How to Build an AI-Powered Local-First Chrome Extension
 
 ### Learning Goal
 
@@ -255,7 +255,7 @@ Build a browser extension that summarizes selected text from a web page using a 
 
 ## 6. Agentic Terminal Workflow With GitHub Copilot CLI And MCP Servers
 
-Reference: [How to Build an Agentic Terminal Workflow with GitHub Copilot CLI and MCP Servers](https://www.freecodecamp.org/news/how-to-build-an-agentic-terminal-workflow-with-github-copilot-cli-and-mcp-servers/)
+Reference: How to Build an Agentic Terminal Workflow with GitHub Copilot CLI and MCP Servers
 
 ### Learning Goal
 

@@ -1,10 +1,10 @@
 # Git, GitHub, and CI Debugging Detailed Guide
 
-This guide covers Git, GitHub collaboration, pull requests, and CI troubleshooting resources from the freeCodeCamp list.
+This guide covers Git, GitHub collaboration, pull requests, and CI troubleshooting resources from the CloudAdhar list.
 
 ## 1. Fix Failing GitHub PR CI
 
-Reference: [How to Fix Failing GitHub PR CI: Lint and Build Errors](https://www.freecodecamp.org/news/how-to-fix-failing-github-pr-ci-lint-build-errors/)
+Reference: How to Fix Failing GitHub PR CI: Lint and Build Errors
 
 ### Learning Goal
 
@@ -53,7 +53,7 @@ Fix each one and write a troubleshooting log.
 
 ## 2. Git And GitHub Crash Course For Beginners
 
-Reference: [Git and GitHub Crash Course for Beginners](https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/)
+Reference: Git and GitHub Crash Course for Beginners
 
 ### Learning Goal
 
@@ -101,7 +101,7 @@ Build a Git practice repo:
 
 ## 3. Git And GitHub Beginner-Friendly Handbook
 
-Reference: [Learn How to Use Git and GitHub: A Beginner-Friendly Handbook](https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/)
+Reference: Learn How to Use Git and GitHub: A Beginner-Friendly Handbook
 
 ### Learning Goal
 
