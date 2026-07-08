@@ -10,6 +10,7 @@ This folder explains how to use the repository as a complete learning system, no
 - [Projects](../projects/README.md)
 - [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)
 - [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
+- [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md)
 - [Tool Deep Dives](../tool-guides/README.md)
 - [How to Use This Repository](how-to-use-this-repo.md)
 - [Learning Method](learning-method.md)
@@ -28,6 +29,7 @@ This folder explains how to use the repository as a complete learning system, no
 ## Curated External References
 
 - [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
+- [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md)
 - [freeCodeCamp URL Validation Log](../logs/freecodecamp-url-validation-2026-07-08.md)
 
 ## Supporting Technical Notes

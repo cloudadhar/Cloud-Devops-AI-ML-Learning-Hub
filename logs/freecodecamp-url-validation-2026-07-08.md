@@ -14,6 +14,7 @@ Policy: Links are validated as external references only. This repo uses original
 - Duplicate submitted URLs: 2
 - Broken URLs found: 0
 - Final direct check: all 26 unique URLs returned HTTP 200 with `curl --fail --location --head`.
+- Detailed guide coverage: all 26 unique URLs are covered in [Detailed freeCodeCamp Study Guides](../docs/freecodecamp-guides/README.md).
 
 ## Unique URL Checks
 

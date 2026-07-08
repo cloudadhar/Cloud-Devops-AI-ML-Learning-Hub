@@ -20,6 +20,9 @@ projects/private-rag-qa-agent/README.md
 Curated freeCodeCamp references:
 docs/freecodecamp-learning-map.md
 
+Detailed step guides:
+docs/freecodecamp-guides/README.md
+
 Start here:
 1. STUDENT_START_HERE.md
 2. docs/how-to-use-this-repo.md
@@ -50,6 +53,7 @@ What is inside:
 - Weekly technology update automation
 - Project ideas and portfolio guidance
 - Curated freeCodeCamp reference map with validation log
+- Detailed freeCodeCamp step guides rewritten in CloudAdhar learning format
 
 Best start path:
 1. Read STUDENT_START_HERE.md
@@ -57,7 +61,8 @@ Best start path:
 3. Pick one track from ROADMAP_INDEX.md
 4. Build labs from labs/README.md
 5. Use docs/freecodecamp-learning-map.md for external reference material
-6. Prepare interviews using docs/interview-preparation-guide.md
+6. Follow docs/freecodecamp-guides/README.md for detailed practice steps
+7. Prepare interviews using docs/interview-preparation-guide.md
 ```
 
 ## LinkedIn Post Draft
@@ -75,6 +80,7 @@ The repo includes:
 - Hands-on labs and interview preparation
 - Weekly learner-focused tech update automation
 - Curated freeCodeCamp resource map with validation log
+- Detailed original study guides for every submitted freeCodeCamp URL
 
 Repo:
 https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub
@@ -94,6 +100,7 @@ If you are starting your tech journey, begin with STUDENT_START_HERE.md and buil
 | Interview candidate | [Interview Preparation Guide](interview-preparation-guide.md) |
 | Project builder | [Private RAG Q&A AI Agent](../projects/private-rag-qa-agent/README.md) |
 | External reference seeker | [freeCodeCamp Learning Map](freecodecamp-learning-map.md) |
+| Step-by-step learner | [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md) |
 | Contributor | [Contributing Guide](../CONTRIBUTING.md) |
 
 ## Community Links

@@ -13,6 +13,7 @@ Projects help learners convert theory into portfolio proof. Each project should 
 ## External Project Inspiration
 
 - [freeCodeCamp Learning Map](../docs/freecodecamp-learning-map.md) - validated external references converted into CloudAdhar practice tasks.
+- [Detailed freeCodeCamp Study Guides](../docs/freecodecamp-guides/README.md) - step-by-step original project and interview guides for every submitted URL.
 
 ## How To Use A Project
 

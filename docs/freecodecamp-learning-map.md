@@ -10,9 +10,19 @@ Validation date: 2026-07-08
 
 1. Pick one goal from the quick path.
 2. Read the linked freeCodeCamp article or course.
-3. Write your own notes in this repo style: concept, commands, diagram, common mistakes, interview questions.
-4. Build one small lab from the project idea.
-5. Add screenshots, logs, and cleanup steps to your portfolio.
+3. Open the matching [Detailed freeCodeCamp Study Guides](freecodecamp-guides/README.md).
+4. Write your own notes in this repo style: concept, commands, diagram, common mistakes, interview questions.
+5. Build one small lab from the project idea.
+6. Add screenshots, logs, and cleanup steps to your portfolio.
+
+## Detailed Step Guides
+
+| Track | Detailed Guide |
+| --- | --- |
+| Agentic AI, RAG, local AI, MCP workflows | [Agentic AI and RAG](freecodecamp-guides/agentic-ai-and-rag.md) |
+| DevOps foundations, Bash, Python, testing, prerequisites | [DevOps Foundations and Automation](freecodecamp-guides/devops-foundations-and-automation.md) |
+| AWS, Azure DevOps, GitLab CI, GitHub Actions, OIDC, RBAC, homelab | [Cloud CI/CD and Security](freecodecamp-guides/cloud-cicd-and-security.md) |
+| Git, GitHub, pull requests, CI troubleshooting | [Git GitHub and CI Debugging](freecodecamp-guides/git-github-ci-debugging.md) |
 
 ## Quick Path By Goal
 
