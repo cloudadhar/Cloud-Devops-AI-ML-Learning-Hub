@@ -50,52 +50,96 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
 
 ## Featured Hands-on AI Project
 
-<a href="projects/private-rag-qa-agent/README.md">
-  <img src="assets/architecture/private-rag-qa-agent.svg" alt="Private RAG Q&A AI Agent Architecture" width="100%">
-</a>
-
-| Project | What Learners Practice |
-| --- | --- |
-| [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) | LangChain, Ollama, Chroma, local embeddings, document Q&A, citations, production upgrade path, and interview explanation |
+<table align="center">
+  <tr>
+    <td align="center" width="58%">
+      <a href="projects/private-rag-qa-agent/README.md">
+        <img src="assets/architecture/private-rag-qa-agent.svg" width="560" alt="Private RAG Q&A AI Agent Architecture" />
+      </a>
+    </td>
+    <td valign="middle" width="42%">
+      <h3>Private RAG Q&amp;A AI Agent</h3>
+      <p>Build a local document question-answering agent with LangChain, Ollama, Chroma, local embeddings, source citations, and an upgrade path toward FastAPI, Docker, CI/CD, Kubernetes, Nginx/Kong, and observability.</p>
+      <p>
+        <a href="projects/private-rag-qa-agent/README.md"><b>Open Project Guide</b></a><br>
+        <a href="docs/freecodecamp-guides/agentic-ai-and-rag.md">Study Agentic AI and RAG Guide</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Find More About Us
 
-| Platform | Link |
-| --- | --- |
-| CloudAdhar Website | [trainwithcloudadhar.com](https://www.trainwithcloudadhar.com/) |
-| Gangadhar Ure LinkedIn | [linkedin.com/in/gangadharure](https://www.linkedin.com/in/gangadharure/) |
-| CloudAdhar YouTube | [youtube.com/@cloudadhar](https://www.youtube.com/@cloudadhar) |
-| CloudAdhar Instagram | [instagram.com/cloudadhar](https://www.instagram.com/cloudadhar/) |
-| TrainWithShubham Website | [trainwithshubham.com](https://www.trainwithshubham.com/) |
-| Shubham Londhe LinkedIn | [linkedin.com/in/shubhamlondhe1996](https://www.linkedin.com/in/shubhamlondhe1996/) |
-| TrainWithShubham YouTube | [youtube.com/@TrainWithShubham](https://www.youtube.com/@TrainWithShubham) |
-| TrainWithShubham Instagram | [instagram.com/trainwithshubham__](https://www.instagram.com/trainwithshubham__/?hl=en) |
-| CertCraft AI | [certcraft.ai](https://www.certcraft.ai/) |
-
-**Community milestones shared by maintainers:** CloudAdhar community 22,000+ learners, TrainWithShubham community 1,06,000+ learners, combined learner reach 1,75,000+.
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3>CloudAdhar</h3>
+      <p><b>22,000+ learners</b></p>
+      <p>
+        <a href="https://www.trainwithcloudadhar.com/">Website</a><br>
+        <a href="https://www.linkedin.com/in/gangadharure/">Gangadhar Ure LinkedIn</a><br>
+        <a href="https://www.youtube.com/@cloudadhar">YouTube</a><br>
+        <a href="https://www.instagram.com/cloudadhar/">Instagram</a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>TrainWithShubham</h3>
+      <p><b>1,06,000+ learners</b></p>
+      <p>
+        <a href="https://www.trainwithshubham.com/">Website</a><br>
+        <a href="https://www.linkedin.com/in/shubhamlondhe1996/">Shubham Londhe LinkedIn</a><br>
+        <a href="https://www.youtube.com/@TrainWithShubham">YouTube</a><br>
+        <a href="https://www.instagram.com/trainwithshubham__/?hl=en">Instagram</a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>CertCraft AI</h3>
+      <p><b>Combined reach: 1,75,000+ learners</b></p>
+      <p>
+        <a href="https://www.certcraft.ai/">certcraft.ai</a><br>
+        <a href="https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements">GitHub Discussions</a><br>
+        <a href="docs/founders-and-community.md">Founders and Community</a><br>
+        <a href="docs/share-this-repo.md">Share This Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Start Here
 
-| Step | Path | What You Get |
-| --- | --- | --- |
-| 1 | [Student Start Here](STUDENT_START_HERE.md) | Beginner-friendly route through the repo |
-| 2 | [How to Use This Repo](docs/how-to-use-this-repo.md) | How to study, practice, document, and contribute |
-| 3 | [Zero-to-Advanced Plan](docs/zero-to-advanced-study-plan.md) | 6 to 9 month structured learning path |
-| 4 | [Hands-on Labs](labs/README.md) | Labs for Linux, Git, Cloud, DevOps, DevSecOps, and MLOps |
-| 5 | [Interview Preparation](docs/interview-preparation-guide.md) | Role-based interview questions and answer method |
-| 6 | [Portfolio Guide](docs/portfolio-github-guide.md) | How to build a job-ready GitHub profile |
-| 7 | [Technology Stack Maps](stacks/README.md) | Tool stacks for DevOps, Cloud, AI/ML, and Full-Stack |
-| 8 | [Tool Deep Dives](tool-guides/README.md) | Detailed architecture, usage, pipelines, advanced topics, and interviews |
-| 9 | [Content Originality Policy](docs/content-originality-policy.md) | How we use sources without copying third-party content |
-| 10 | [Community Discussions](docs/community-discussions.md) | Follow announcements, YouTube, Instagram, and community updates |
-| 11 | [Weekly Learner Tech Updates](docs/weekly-updates/README.md) | Auto-generated weekly focus guide from official feeds |
-| 12 | [Founders and Community](docs/founders-and-community.md) | CloudAdhar, TrainWithShubham, CertCraft AI, and social links |
-| 13 | [Share This Repo](docs/share-this-repo.md) | Ready-to-send WhatsApp and LinkedIn messages |
-| 14 | [Easy Navigation](docs/easy-navigation.md) | Simple route for learners who feel lost |
-| 15 | [30-60-90 Learner Focus](docs/learner-focus-30-60-90.md) | Clear monthly learning plan |
-| 16 | [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) | Hands-on Agentic AI project using local documents |
-| 17 | [freeCodeCamp Learning Map](docs/freecodecamp-learning-map.md) | Curated external references with validation log and practice tasks |
-| 18 | [Detailed freeCodeCamp Study Guides](docs/freecodecamp-guides/README.md) | Step-by-step original guides for every submitted freeCodeCamp URL |
+<table align="center">
+  <tr>
+    <th width="33%">1. Start Learning</th>
+    <th width="33%">2. Build and Practice</th>
+    <th width="33%">3. Prepare and Share</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="STUDENT_START_HERE.md"><b>Student Start Here</b></a><br>
+      <a href="docs/how-to-use-this-repo.md">How to Use This Repo</a><br>
+      <a href="docs/zero-to-advanced-study-plan.md">Zero-to-Advanced Plan</a><br>
+      <a href="docs/easy-navigation.md">Easy Navigation</a><br>
+      <a href="docs/learner-focus-30-60-90.md">30-60-90 Learner Focus</a><br>
+      <a href="stacks/README.md">Technology Stack Maps</a>
+    </td>
+    <td valign="top">
+      <a href="labs/README.md"><b>Hands-on Labs</b></a><br>
+      <a href="projects/private-rag-qa-agent/README.md">Private RAG Q&amp;A AI Agent</a><br>
+      <a href="tool-guides/README.md">Tool Deep Dives</a><br>
+      <a href="docs/freecodecamp-learning-map.md">freeCodeCamp Learning Map</a><br>
+      <a href="docs/freecodecamp-guides/README.md">Detailed freeCodeCamp Study Guides</a><br>
+      <a href="docs/weekly-updates/README.md">Weekly Learner Tech Updates</a>
+    </td>
+    <td valign="top">
+      <a href="docs/interview-preparation-guide.md"><b>Interview Preparation</b></a><br>
+      <a href="docs/portfolio-github-guide.md">Portfolio Guide</a><br>
+      <a href="docs/share-this-repo.md">Share This Repo</a><br>
+      <a href="docs/community-discussions.md">Community Discussions</a><br>
+      <a href="docs/founders-and-community.md">Founders and Community</a><br>
+      <a href="docs/content-originality-policy.md">Content Originality Policy</a>
+    </td>
+  </tr>
+</table>
 
 ## Clickable Topic Dashboard
 
