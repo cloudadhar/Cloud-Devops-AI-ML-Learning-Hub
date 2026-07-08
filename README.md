@@ -43,6 +43,7 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
 | Find the right topic quickly | [Easy Navigation](docs/easy-navigation.md) |
 | Follow a 30-60-90 day plan | [Learner Focus Plan](docs/learner-focus-30-60-90.md) |
 | Build a private RAG Q&A AI agent | [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) |
+| Study curated freeCodeCamp references | [freeCodeCamp Learning Map](docs/freecodecamp-learning-map.md) |
 | See latest weekly tech focus | [Weekly Learner Tech Updates](docs/weekly-updates/latest.md) |
 | Ask or follow announcements | [GitHub Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements) |
 
@@ -92,6 +93,7 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
 | 14 | [Easy Navigation](docs/easy-navigation.md) | Simple route for learners who feel lost |
 | 15 | [30-60-90 Learner Focus](docs/learner-focus-30-60-90.md) | Clear monthly learning plan |
 | 16 | [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) | Hands-on Agentic AI project using local documents |
+| 17 | [freeCodeCamp Learning Map](docs/freecodecamp-learning-map.md) | Curated external references with validation log and practice tasks |
 
 ## Clickable Topic Dashboard
 
@@ -430,6 +432,10 @@ Every Monday, GitHub Actions runs [Weekly Learner Tech Digest](.github/workflows
 - Source config: [data/weekly-update-sources.json](data/weekly-update-sources.json)
 
 Learners can use the digest to decide what to focus on each week and convert updates into notes, labs, and interview answers.
+
+## Curated External Learning References
+
+The [freeCodeCamp Learning Map](docs/freecodecamp-learning-map.md) organizes 26 validated freeCodeCamp resources into CloudAdhar learning paths for Agentic AI, RAG, DevOps automation, AWS, Azure DevOps, GitHub Actions, GitLab CI, homelab practice, CI troubleshooting, and Git/GitHub foundations. The validation log is kept at [logs/freecodecamp-url-validation-2026-07-08.md](logs/freecodecamp-url-validation-2026-07-08.md).
 
 ## Detailed Learning System
 

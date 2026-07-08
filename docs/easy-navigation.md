@@ -43,7 +43,8 @@ Use this page when the repo feels too large. Pick your goal and open only the ma
 3. [AI, ML, and MLOps](../tool-guides/ai-ml/ai-ml-mlops.md)
 4. [RAG and Agentic AI](../tool-guides/ai-ml/rag-agentic-ai.md)
 5. [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)
-6. [MLOps Lifecycle Notes](../AI-ML-MLOps/mlops-lifecycle-notes.md)
+6. [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
+7. [MLOps Lifecycle Notes](../AI-ML-MLOps/mlops-lifecycle-notes.md)
 
 ## I Want Interview Preparation
 
@@ -51,7 +52,15 @@ Use this page when the repo feels too large. Pick your goal and open only the ma
 2. [Interview Question Bank](../Interview/question-bank.md)
 3. [Project Rubric](../projects/project-rubric.md)
 4. [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)
-5. [Portfolio and GitHub Guide](portfolio-github-guide.md)
+5. [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
+6. [Portfolio and GitHub Guide](portfolio-github-guide.md)
+
+## I Want External Reference Material
+
+1. [freeCodeCamp Learning Map](freecodecamp-learning-map.md)
+2. [freeCodeCamp URL Validation Log](../logs/freecodecamp-url-validation-2026-07-08.md)
+3. [URL Research and Validation Policy](url-research-validation-policy.md)
+4. [Content Originality Policy](content-originality-policy.md)
 
 ## I Want Weekly Updates
 

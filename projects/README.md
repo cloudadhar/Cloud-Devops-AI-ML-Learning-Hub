@@ -10,6 +10,10 @@ Projects help learners convert theory into portfolio proof. Each project should 
 | [Trending Project Ideas](trending-project-ideas.md) | Beginner to Advanced | Project planning and portfolio ideas |
 | [Project Rubric](project-rubric.md) | All levels | Readiness checklist for interviews and GitHub portfolios |
 
+## External Project Inspiration
+
+- [freeCodeCamp Learning Map](../docs/freecodecamp-learning-map.md) - validated external references converted into CloudAdhar practice tasks.
+
 ## How To Use A Project
 
 1. Read the problem statement and architecture.
