@@ -1,5 +1,10 @@
 # Interview Preparation
 
+## Main Scenario Practice
+
+- [Scenario-Based Interview Questions](../docs/learner-tracks/interview-scenarios.md)
+- [Role-Wise Learner Tracks](../docs/learner-tracks/README.md)
+
 ## Foundation Questions
 
 - Explain Linux permissions.
@@ -52,3 +57,4 @@
 ## Supporting Docs
 
 - [Interview Question Bank](question-bank.md)
+- [Scenario-Based Interview Questions](../docs/learner-tracks/interview-scenarios.md)

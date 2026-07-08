@@ -5,6 +5,8 @@ Welcome to the Cloud DevOps AI/ML Learning Hub.
 ## Step 1: Build Foundation
 Read:
 
+- `docs/learner-tracks/README.md`
+- `docs/learner-tracks/foundations-linux-networking-git.md`
 - `docs/how-to-use-this-repo.md`
 - `docs/learning-method.md`
 - `docs/zero-to-advanced-study-plan.md`
@@ -30,7 +32,16 @@ Read:
 - `GCP/README.md`
 
 ## Step 4: Explore Career Paths
-Read at least three roadmaps:
+Start with role-wise tracks, then read at least three roadmaps:
+
+- `docs/learner-tracks/cloud-engineering.md`
+- `docs/learner-tracks/devops-engineering.md`
+- `docs/learner-tracks/devsecops-security.md`
+- `docs/learner-tracks/ai-engineering.md`
+- `docs/learner-tracks/machine-learning.md`
+- `docs/learner-tracks/mlops-engineering.md`
+
+Roadmaps:
 
 - `roadmaps/full-stack-roadmap.md`
 - `roadmaps/cloud-devops-roadmap.md`
@@ -76,6 +87,7 @@ When you learn something clearly, contribute:
 - Troubleshooting steps
 - Labs
 - Interview questions
+- Scenario answers
 - Validated official links
 
 Read `CONTRIBUTING.md` and `docs/contribution-workflow.md` first.

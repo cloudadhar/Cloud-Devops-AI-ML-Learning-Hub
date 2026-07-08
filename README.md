@@ -2,54 +2,101 @@
 
 # Cloud DevOps AI/ML Learning Hub
 
-### Zero to advanced learning paths for Cloud, DevOps, DevSecOps, Linux, AI, ML, MLOps, Agentic AI, Observability, and platform engineering.
+### Colorful, role-wise, zero-to-advanced learning paths for Cloud, DevOps, DevSecOps, SRE, AI, ML, MLOps, Agentic AI, Linux, and platform engineering.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-cloudadhar-181717?style=for-the-badge&logo=github)](https://github.com/cloudadhar)
-[![Learning Hub](https://img.shields.io/badge/Learning-Hub-00C2FF?style=for-the-badge&logo=bookstack&logoColor=white)](docs/README.md)
-[![Hands-on Labs](https://img.shields.io/badge/Hands--on-Labs-22C55E?style=for-the-badge&logo=gitbook&logoColor=white)](labs/README.md)
-[![Discussions](https://img.shields.io/badge/Discussions-Announcements-7C3AED?style=for-the-badge&logo=githubdiscussions&logoColor=white)](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements)
+[![GitHub](https://img.shields.io/badge/GitHub-cloudadhar-181717?style=for-the-badge&logo=github)](https://github.com/cloudadhar)
+[![CloudAdhar](https://img.shields.io/badge/CloudAdhar-Learning%20Hub-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.trainwithcloudadhar.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-cloudadhar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cloudadhar)
 [![Instagram](https://img.shields.io/badge/Instagram-cloudadhar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cloudadhar/)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-FF6B00?style=for-the-badge&logo=githubsponsors&logoColor=white)](CONTRIBUTING.md)
-[![CloudAdhar Website](https://img.shields.io/badge/Website-Train%20With%20CloudAdhar-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.trainwithcloudadhar.com/)
-[![CertCraft AI](https://img.shields.io/badge/CertCraft-AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://www.certcraft.ai/)
-[![Gangadhar LinkedIn](https://img.shields.io/badge/LinkedIn-Gangadhar%20Ure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangadharure/)
-[![Shubham Website](https://img.shields.io/badge/Website-Train%20With%20Shubham-F97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.trainwithshubham.com/)
-[![Shubham YouTube](https://img.shields.io/badge/YouTube-TrainWithShubham-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TrainWithShubham)
-[![Shubham LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Londhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamlondhe1996/)
-[![Shubham Instagram](https://img.shields.io/badge/Instagram-trainwithshubham__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trainwithshubham__/?hl=en)
-
-
-<br>
-
-Open the visual dashboard below and click any topic logo to start learning.
-
+[![Discussions](https://img.shields.io/badge/GitHub-Discussions-7C3AED?style=for-the-badge&logo=githubdiscussions&logoColor=white)](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements)
+[![Contribute](https://img.shields.io/badge/Contributions-Welcome-22C55E?style=for-the-badge&logo=githubsponsors&logoColor=white)](CONTRIBUTING.md)
 
 </div>
 
 ---
 
-## Mission
+## Pick Your Learning Track First
 
-This repository helps students, freshers, and working engineers learn by following structured roadmaps, hands-on labs, detailed notes, validated topics, interview preparation, and portfolio-ready projects.
+Different learners need different routes. A DevOps learner does not need to study ML first, and an ML learner does not need to start with Kubernetes internals on day one. Pick one role, finish the linked guide, then expand into adjacent tracks.
 
-Built by the CloudAdhar learning community as an original, zero-to-advanced hub for modern **Cloud + DevOps + DevSecOps + AI/ML + MLOps + Agentic AI** learning.
+| Track | Best For | Start Here |
+| --- | --- | --- |
+| ![Linux](https://img.shields.io/badge/Linux-Foundation-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git&logoColor=white) | Absolute beginners, support engineers, all roles | [Foundations: Linux, Networking, Git](docs/learner-tracks/foundations-linux-networking-git.md) |
+| ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Cloud engineers and solution learners | [Cloud Engineering](docs/learner-tracks/cloud-engineering.md) |
+| ![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-Pipeline-D24939?style=flat-square&logo=jenkins&logoColor=white) | DevOps engineers, release engineers | [DevOps Engineering](docs/learner-tracks/devops-engineering.md) |
+| ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | Container, Kubernetes, GitOps learners | [Containers, Kubernetes, and GitOps](docs/learner-tracks/containers-kubernetes-gitops.md) |
+| ![Security](https://img.shields.io/badge/DevSecOps-Security-DC2626?style=flat-square&logo=owasp&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) | Security, DevSecOps, AppSec learners | [DevSecOps and Security](docs/learner-tracks/devsecops-security.md) |
+| ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white) | SRE, support, monitoring learners | [Observability and SRE](docs/learner-tracks/observability-sre.md) |
+| ![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=flat-square&logo=nginx&logoColor=white) ![Kong](https://img.shields.io/badge/Kong-API%20Gateway-003459?style=flat-square&logo=kong&logoColor=white) | Platform and API gateway learners | [Platform Engineering: Nginx and Kong](docs/learner-tracks/platform-engineering-nginx-kong.md) |
+| ![AI](https://img.shields.io/badge/AI-Foundations-8B5CF6?style=flat-square&logo=openai&logoColor=white) | AI app builders and prompt/API learners | [Artificial Intelligence Engineering](docs/learner-tracks/ai-engineering.md) |
+| ![ML](https://img.shields.io/badge/Machine%20Learning-Models-F59E0B?style=flat-square&logo=scikitlearn&logoColor=white) | ML beginners, data science learners | [Machine Learning](docs/learner-tracks/machine-learning.md) |
+| ![MLOps](https://img.shields.io/badge/MLOps-Production%20ML-16A34A?style=flat-square&logo=mlflow&logoColor=white) | Model deployment and ML platform learners | [MLOps Engineering](docs/learner-tracks/mlops-engineering.md) |
+| ![RAG](https://img.shields.io/badge/RAG-Agentic%20AI-9333EA?style=flat-square&logo=langchain&logoColor=white) | LLM apps, agents, local AI learners | [Agentic AI and RAG](docs/learner-tracks/agentic-ai-rag.md) |
+| ![Jira](https://img.shields.io/badge/Jira-Confluence-0052CC?style=flat-square&logo=jira&logoColor=white) ![JFrog](https://img.shields.io/badge/Artifacts-Quality-41BF47?style=flat-square&logo=jfrog&logoColor=white) | Team collaboration and enterprise tooling | [Collaboration, Artifacts, and Quality](docs/learner-tracks/collaboration-artifact-quality.md) |
 
-## Quick Share and Navigation
+## Quick Start
 
-| Need | Open This |
+| Need | Open |
 | --- | --- |
-| Share the repo on WhatsApp or LinkedIn | [Share This Repo](docs/share-this-repo.md) |
-| Find the right topic quickly | [Easy Navigation](docs/easy-navigation.md) |
-| Follow a 30-60-90 day plan | [Learner Focus Plan](docs/learner-focus-30-60-90.md) |
-| Build a private RAG Q&A AI agent | [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) |
-| Study curated CloudAdhar references | [CloudAdhar Learning Map](docs/cloudadhar-learning-map.md) |
-| Follow detailed CloudAdhar step guides | [Detailed CloudAdhar Study Guides](docs/cloudadhar-guides/README.md) |
-| View original diagrams for CloudAdhar modules | [Original Architecture Diagrams](docs/cloudadhar-guides/original-architecture-diagrams.md) |
-| See latest weekly tech focus | [Weekly Learner Tech Updates](docs/weekly-updates/latest.md) |
-| Ask or follow announcements | [GitHub Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements) |
+| New learner route | [Student Start Here](STUDENT_START_HERE.md) |
+| Role-wise track dashboard | [Learner Tracks](docs/learner-tracks/README.md) |
+| Scenario-based interview questions | [Interview Scenarios](docs/learner-tracks/interview-scenarios.md) |
+| Hands-on labs | [Labs](labs/README.md) |
+| Projects | [Projects](projects/README.md) |
+| Weekly technology focus | [Weekly Learner Tech Updates](docs/weekly-updates/latest.md) |
+| Tool deep dives | [Tool Guides](tool-guides/README.md) |
+| Roadmaps | [Roadmap Index](ROADMAP_INDEX.md) |
+| Community announcements | [Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements) |
 
-## Featured Hands-on AI Project
+## Colorful Tool Dashboard
+
+Click any badge to open a focused guide. This section is intentionally simple: logo first, topic second, then practice.
+
+### Cloud and Platform
+
+[![AWS](https://img.shields.io/badge/AWS-Guide-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](tool-guides/cloud/aws.md)
+[![Azure](https://img.shields.io/badge/Azure-Guide-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](tool-guides/cloud/azure.md)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Guide-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](tool-guides/cloud/gcp.md)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](tool-guides/devops/terraform-opentofu.md)
+[![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](tool-guides/devops/ansible.md)
+[![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)](tool-guides/platform/nginx.md)
+[![Kong](https://img.shields.io/badge/Kong-API%20Gateway-003459?style=for-the-badge&logo=kong&logoColor=white)](tool-guides/platform/kong-gateway.md)
+
+### DevOps, CI/CD, and Containers
+
+[![GitHub](https://img.shields.io/badge/GitHub-Git-181717?style=for-the-badge&logo=github)](tool-guides/foundation/git-github.md)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](tool-guides/devops/github-actions.md)
+[![GitLab](https://img.shields.io/badge/GitLab-CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](tool-guides/devops/gitlab.md)
+[![Jenkins](https://img.shields.io/badge/Jenkins-Pipelines-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](tool-guides/devops/jenkins.md)
+[![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](tool-guides/devops/docker.md)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](tool-guides/devops/kubernetes.md)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](tool-guides/devops/helm-argo-cd.md)
+
+### Observability and Security
+
+[![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](tool-guides/observability/prometheus-grafana.md)
+[![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white)](tool-guides/observability/prometheus-grafana.md)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Traces-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)](tool-guides/observability/opentelemetry-logs-traces.md)
+[![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](tool-guides/security/sonarqube.md)
+[![Nexus](https://img.shields.io/badge/Nexus-Repository-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)](tool-guides/security/nexus-artifactory.md)
+[![JFrog](https://img.shields.io/badge/JFrog-Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)](tool-guides/security/nexus-artifactory.md)
+
+### AI, ML, MLOps, and Apps
+
+[![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)](tool-guides/ai-ml/python-fastapi.md)
+[![AI](https://img.shields.io/badge/AI-Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](tool-guides/ai-ml/artificial-intelligence.md)
+[![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](tool-guides/ai-ml/machine-learning.md)
+[![MLOps](https://img.shields.io/badge/MLOps-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](tool-guides/ai-ml/mlops.md)
+[![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](tool-guides/ai-ml/rag-agentic-ai.md)
+[![React](https://img.shields.io/badge/Full--Stack-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](tool-guides/full-stack/full-stack-web.md)
+
+### Collaboration and Enterprise Tools
+
+[![Jira](https://img.shields.io/badge/Jira-Work%20Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white)](tool-guides/collaboration/jira-confluence-drawio.md)
+[![Confluence](https://img.shields.io/badge/Confluence-Docs-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](tool-guides/collaboration/jira-confluence-drawio.md)
+[![draw.io](https://img.shields.io/badge/draw.io-Diagrams-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](tool-guides/collaboration/jira-confluence-drawio.md)
+
+## Featured Hands-on Project
 
 <table align="center">
   <tr>
@@ -60,362 +107,24 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
     </td>
     <td valign="middle" width="42%">
       <h3>Private RAG Q&amp;A AI Agent</h3>
-      <p>Build a local document question-answering agent with LangChain, Ollama, Chroma, local embeddings, source citations, and an upgrade path toward FastAPI, Docker, CI/CD, Kubernetes, Nginx/Kong, and observability.</p>
-      <p>
-        <a href="projects/private-rag-qa-agent/README.md"><b>Open Project Guide</b></a><br>
-        <a href="docs/cloudadhar-guides/agentic-ai-and-rag.md">Study Agentic AI and RAG Guide</a>
-      </p>
+      <p>Build a local document Q&amp;A agent with chunking, embeddings, Chroma, Ollama, LangChain, citations, FastAPI upgrade path, Docker, CI/CD, Nginx/Kong gateway options, and observability.</p>
+      <p><a href="projects/private-rag-qa-agent/README.md"><b>Open Project Guide</b></a></p>
     </td>
   </tr>
 </table>
 
-## Find More About Us
+## What Each Track Gives Learners
 
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <h3>CloudAdhar</h3>
-      <p><b>22,000+ learners</b></p>
-      <p>
-        <a href="https://www.trainwithcloudadhar.com/">Website</a><br>
-        <a href="https://www.linkedin.com/in/gangadharure/">Gangadhar Ure LinkedIn</a><br>
-        <a href="https://www.youtube.com/@cloudadhar">YouTube</a><br>
-        <a href="https://www.instagram.com/cloudadhar/">Instagram</a>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>TrainWithShubham</h3>
-      <p><b>1,06,000+ learners</b></p>
-      <p>
-        <a href="https://www.trainwithshubham.com/">Website</a><br>
-        <a href="https://www.linkedin.com/in/shubhamlondhe1996/">Shubham Londhe LinkedIn</a><br>
-        <a href="https://www.youtube.com/@TrainWithShubham">YouTube</a><br>
-        <a href="https://www.instagram.com/trainwithshubham__/?hl=en">Instagram</a>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>CertCraft AI</h3>
-      <p><b>Combined reach: 1,75,000+ learners</b></p>
-      <p>
-        <a href="https://www.certcraft.ai/">certcraft.ai</a><br>
-        <a href="https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements">GitHub Discussions</a><br>
-        <a href="docs/founders-and-community.md">Founders and Community</a><br>
-        <a href="docs/share-this-repo.md">Share This Repo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Every track includes | Why it helps |
+| --- | --- |
+| Role clarity | Learners know whether the topic is for DevOps, Cloud, AI, ML, MLOps, SRE, or Security. |
+| Architecture mental model | Students can draw and explain the system in interviews. |
+| 30-60-90 day learning flow | Beginners do not get lost in advanced tools too early. |
+| Hands-on labs | Every concept turns into practice. |
+| Scenario interview questions | Learners practice real debugging, design, and tradeoff answers. |
+| Official references | Learners can go deeper without random or outdated links. |
 
-## Start Here
-
-<table align="center">
-  <tr>
-    <th width="33%">1. Start Learning</th>
-    <th width="33%">2. Build and Practice</th>
-    <th width="33%">3. Prepare and Share</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="STUDENT_START_HERE.md"><b>Student Start Here</b></a><br>
-      <a href="docs/how-to-use-this-repo.md">How to Use This Repo</a><br>
-      <a href="docs/zero-to-advanced-study-plan.md">Zero-to-Advanced Plan</a><br>
-      <a href="docs/easy-navigation.md">Easy Navigation</a><br>
-      <a href="docs/learner-focus-30-60-90.md">30-60-90 Learner Focus</a><br>
-      <a href="stacks/README.md">Technology Stack Maps</a>
-    </td>
-    <td valign="top">
-      <a href="labs/README.md"><b>Hands-on Labs</b></a><br>
-      <a href="projects/private-rag-qa-agent/README.md">Private RAG Q&amp;A AI Agent</a><br>
-      <a href="tool-guides/README.md">Tool Deep Dives</a><br>
-      <a href="docs/cloudadhar-learning-map.md">CloudAdhar Learning Map</a><br>
-      <a href="docs/cloudadhar-guides/README.md">Detailed CloudAdhar Study Guides</a><br>
-      <a href="docs/weekly-updates/README.md">Weekly Learner Tech Updates</a>
-    </td>
-    <td valign="top">
-      <a href="docs/interview-preparation-guide.md"><b>Interview Preparation</b></a><br>
-      <a href="docs/portfolio-github-guide.md">Portfolio Guide</a><br>
-      <a href="docs/share-this-repo.md">Share This Repo</a><br>
-      <a href="docs/community-discussions.md">Community Discussions</a><br>
-      <a href="docs/founders-and-community.md">Founders and Community</a><br>
-      <a href="docs/content-originality-policy.md">Content Originality Policy</a>
-    </td>
-  </tr>
-</table>
-
-## Clickable Topic Dashboard
-
-Click any logo to open the matching detailed guide, lab, or official documentation. This is the main visual entry point for learners.
-
-<table align="center">
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="DevOps/devops-lifecycle-detailed.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/devops.png" width="76" height="76" alt="DevOps" title="DevOps" /><br>
-        <b>DevOps</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="CI-CD/pipeline-examples.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/cicd.png" width="76" height="76" alt="CI/CD" title="CI/CD" /><br>
-        <b>CI/CD</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/foundation/git-github.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/git.png" width="76" height="76" alt="Git/GitHub" title="Git/GitHub" /><br>
-        <b>Git/GitHub</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/devops/ansible.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/ansible.png" width="76" height="76" alt="Ansible" title="Ansible" /><br>
-        <b>Ansible</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/foundation/networking.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/network.png" width="76" height="76" alt="Network" title="Network" /><br>
-        <b>Network</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/foundation/linux.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/linux.png" width="76" height="76" alt="Linux" title="Linux" /><br>
-        <b>Linux</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/full-stack/full-stack-web.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/programming.png" width="76" height="76" alt="Programming" title="Programming" /><br>
-        <b>Programming</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/ai-ml/python-fastapi.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/python.png" width="76" height="76" alt="Python" title="Python" /><br>
-        <b>Python</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="https://go.dev/doc/">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/Go.png" width="76" height="76" alt="Go" title="Go" /><br>
-        <b>Go</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="LINUX/commands-and-practice.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/bash.png" width="76" height="76" alt="Shell Scripting" title="Shell Scripting" /><br>
-        <b>Shell Scripting</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/devops/kubernetes.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/kubernetes.png" width="76" height="76" alt="Kubernetes" title="Kubernetes" /><br>
-        <b>Kubernetes</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/observability/prometheus-grafana.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/prometheus.png" width="76" height="76" alt="Prometheus" title="Prometheus" /><br>
-        <b>Prometheus</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="stacks/cloud-tool-stack.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/cloud.png" width="76" height="76" alt="Cloud" title="Cloud" /><br>
-        <b>Cloud</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/cloud/aws.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/aws.png" width="76" height="76" alt="AWS" title="AWS" /><br>
-        <b>AWS</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/cloud/azure.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/azure.png" width="76" height="76" alt="Azure" title="Azure" /><br>
-        <b>Azure</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/cloud/gcp.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/googlecloud.png" width="76" height="76" alt="Google Cloud" title="Google Cloud" /><br>
-        <b>Google Cloud</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="https://docs.openstack.org/">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/openstack.png" width="76" height="76" alt="OpenStack" title="OpenStack" /><br>
-        <b>OpenStack</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="Security/devsecops-checklists.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/security.png" width="76" height="76" alt="Security" title="Security" /><br>
-        <b>Security</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="LINUX/README.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/os.png" width="76" height="76" alt="Operating System" title="Operating System" /><br>
-        <b>Operating System</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="Observability/metrics-logs-traces-notes.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/monitoring.png" width="76" height="76" alt="Monitoring" title="Monitoring" /><br>
-        <b>Monitoring</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="https://www.elastic.co/guide/">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/elastic.png" width="76" height="76" alt="Elastic" title="Elastic" /><br>
-        <b>Elastic</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="https://www.redhat.com/en/topics/virtualization">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/virtualization.png" width="76" height="76" alt="Virtualization" title="Virtualization" /><br>
-        <b>Virtualization</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="Networking/http-dns-load-balancing.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/dns.png" width="76" height="76" alt="DNS" title="DNS" /><br>
-        <b>DNS</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="docs/how-to-use-this-repo.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/general.png" width="76" height="76" alt="Misc" title="Misc" /><br>
-        <b>Misc</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="CI-CD/pipeline-examples.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/testing.png" width="76" height="76" alt="Testing" title="Testing" /><br>
-        <b>Testing</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/full-stack/full-stack-web.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/databases.png" width="76" height="76" alt="Databases" title="Databases" /><br>
-        <b>Databases</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/regex.png" width="76" height="76" alt="Regex" title="Regex" /><br>
-        <b>Regex</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="docs/production-readiness-checklist.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/design.png" width="76" height="76" alt="System Design" title="System Design" /><br>
-        <b>System Design</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="docs/foundation-knowledge-map.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/hardware.png" width="76" height="76" alt="Hardware" title="Hardware" /><br>
-        <b>Hardware</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="roadmaps/data-roadmap.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/big-data.png" width="76" height="76" alt="Big Data" title="Big Data" /><br>
-        <b>Big Data</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="certifications/certification-guidance.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/certificates.png" width="76" height="76" alt="Certificates" title="Certificates" /><br>
-        <b>Certificates</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/devops/docker.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/containers.png" width="76" height="76" alt="Containers" title="Containers" /><br>
-        <b>Containers</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="https://www.postgresql.org/docs/">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/sql.png" width="76" height="76" alt="SQL" title="SQL" /><br>
-        <b>SQL</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="https://docs.openshift.com/">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/openshift.png" width="76" height="76" alt="OpenShift" title="OpenShift" /><br>
-        <b>OpenShift</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="stacks/cloud-tool-stack.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/storage.png" width="76" height="76" alt="Storage" title="Storage" /><br>
-        <b>Storage</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/devops/terraform-opentofu.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/terraform.png" width="76" height="76" alt="Terraform" title="Terraform" /><br>
-        <b>Terraform</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/devops/jenkins.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/jenkins.png" width="76" height="76" alt="Jenkins" title="Jenkins" /><br>
-        <b>Jenkins</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="https://www.mongodb.com/docs/">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/mongo.png" width="76" height="76" alt="MongoDB" title="MongoDB" /><br>
-        <b>MongoDB</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/platform/kong-gateway.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/cloud.png" width="76" height="76" alt="Kong Gateway" title="Kong Gateway" /><br>
-        <b>Kong Gateway</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/platform/nginx.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/containers.png" width="76" height="76" alt="Nginx" title="Nginx" /><br>
-        <b>Nginx</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="tool-guides/ai-ml/ai-ml-mlops.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/distributed.png" width="76" height="76" alt="AI/MLOps" title="AI/MLOps" /><br>
-        <b>AI/MLOps</b>
-      </a>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="projects/private-rag-qa-agent/README.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/system_design_notebook.png" width="76" height="76" alt="RAG/Agents" title="RAG/Agents" /><br>
-        <b>RAG/Agents</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## Architecture and Reference Visuals
+## Architecture Visuals
 
 Original CloudAdhar project architecture:
 
@@ -425,187 +134,61 @@ Original CloudAdhar project architecture:
   </a>
 </p>
 
-These external images are displayed unchanged from the public `fekiayman/devops-exercises` repository and are used as visual learning references. See [external image credits](logs/external-image-credits.md).
+More architecture pages:
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="docs/production-readiness-checklist.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/distributed/distributed_design_lb.png" width="280" alt="Distributed load balancer architecture" /><br>
-        <b>Distributed Load Balancing</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="tool-guides/devops/kubernetes.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/kubernetes/kubernetes_components.png" width="280" alt="Kubernetes components architecture" /><br>
-        <b>Kubernetes Components</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="tool-guides/observability/opentelemetry-logs-traces.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/jenkins/jenkins-to-kibana.png" width="280" alt="Jenkins to Kibana architecture" /><br>
-        <b>Pipeline Logs to Kibana</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="docs/production-readiness-checklist.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/design/cdn-no-downtime.png" width="280" alt="CDN no downtime architecture" /><br>
-        <b>CDN and No Downtime</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="docs/foundation-knowledge-map.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/design/input-process-output.png" width="280" alt="Input process output design" /><br>
-        <b>Input Process Output</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="docs/troubleshooting-method.md">
-        <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/distributed/distributed_design_standby.png" width="280" alt="Standby distributed design" /><br>
-        <b>Standby and Failover</b>
-      </a>
-    </td>
-  </tr>
-</table>
+- [Original Architecture Diagrams](docs/cloudadhar-guides/original-architecture-diagrams.md)
+- [Production Readiness Checklist](docs/production-readiness-checklist.md)
+- [Troubleshooting Method](docs/troubleshooting-method.md)
 
 ## Weekly Automation
 
-Every Monday, GitHub Actions runs [Weekly Learner Tech Digest](.github/workflows/weekly-learner-digest.yml). It reads official/public feeds for AWS, Azure, Google Cloud, GitHub, DevOps, Kubernetes, Docker, Terraform, Grafana, and CNCF updates, then generates:
+Every Monday, GitHub Actions runs [Weekly Learner Tech Digest](.github/workflows/weekly-learner-digest.yml). It reads configured public feeds and generates:
 
 - [Latest Weekly Digest](docs/weekly-updates/latest.md)
 - [Weekly Digest Archive](docs/weekly-updates/README.md)
-- Source config: [data/weekly-update-sources.json](data/weekly-update-sources.json)
+- [Weekly source config](data/weekly-update-sources.json)
 
-Learners can use the digest to decide what to focus on each week and convert updates into notes, labs, and interview answers.
+Use the weekly digest to decide what learners should focus on that week, then convert updates into notes, labs, and interview answers.
 
-## CloudAdhar Learning Modules
+## Find More About Us
 
-The [CloudAdhar Learning Map](docs/cloudadhar-learning-map.md) organizes 26 CloudAdhar modules into learning paths for Agentic AI, RAG, DevOps automation, AWS, Azure DevOps, GitHub Actions, GitLab CI, homelab practice, CI troubleshooting, and Git/GitHub foundations. Detailed step guides are available in [docs/cloudadhar-guides](docs/cloudadhar-guides/README.md). The topic coverage log is kept at [logs/cloudadhar-topic-validation-2026-07-08.md](logs/cloudadhar-topic-validation-2026-07-08.md).
-
-## Detailed Learning System
-
-| Need | Guide |
+| Platform | Link |
 | --- | --- |
-| How to use the repo | [docs/how-to-use-this-repo.md](docs/how-to-use-this-repo.md) |
-| Learning method | [docs/learning-method.md](docs/learning-method.md) |
-| Zero-to-advanced plan | [docs/zero-to-advanced-study-plan.md](docs/zero-to-advanced-study-plan.md) |
-| Weekly practice plan | [docs/weekly-practice-plan.md](docs/weekly-practice-plan.md) |
-| Interview preparation | [docs/interview-preparation-guide.md](docs/interview-preparation-guide.md) |
-| Portfolio and GitHub guide | [docs/portfolio-github-guide.md](docs/portfolio-github-guide.md) |
-| Tool selection | [docs/tool-selection-guide.md](docs/tool-selection-guide.md) |
-| topic validation policy | [docs/url-research-validation-policy.md](docs/url-research-validation-policy.md) |
-| Contribution workflow | [docs/contribution-workflow.md](docs/contribution-workflow.md) |
-| Production readiness | [docs/production-readiness-checklist.md](docs/production-readiness-checklist.md) |
-| Troubleshooting method | [docs/troubleshooting-method.md](docs/troubleshooting-method.md) |
-| Hands-on labs | [labs/README.md](labs/README.md) |
-| Content originality policy | [docs/content-originality-policy.md](docs/content-originality-policy.md) |
-| Community announcements | [GitHub Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements) |
-| YouTube channel | [@cloudadhar](https://www.youtube.com/@cloudadhar) |
-| Instagram | [@cloudadhar](https://www.instagram.com/cloudadhar/) |
+| CloudAdhar Website | [trainwithcloudadhar.com](https://www.trainwithcloudadhar.com/) |
+| Gangadhar Ure LinkedIn | [linkedin.com/in/gangadharure](https://www.linkedin.com/in/gangadharure/) |
+| CloudAdhar YouTube | [youtube.com/@cloudadhar](https://www.youtube.com/@cloudadhar) |
+| CloudAdhar Instagram | [instagram.com/cloudadhar](https://www.instagram.com/cloudadhar/) |
+| TrainWithShubham Website | [trainwithshubham.com](https://www.trainwithshubham.com/) |
+| Shubham Londhe LinkedIn | [linkedin.com/in/shubhamlondhe1996](https://www.linkedin.com/in/shubhamlondhe1996/) |
+| TrainWithShubham YouTube | [youtube.com/@TrainWithShubham](https://www.youtube.com/@TrainWithShubham) |
+| TrainWithShubham Instagram | [instagram.com/trainwithshubham__](https://www.instagram.com/trainwithshubham__/?hl=en) |
+| CertCraft AI | [certcraft.ai](https://www.certcraft.ai/) |
 
-## Learning Domains
+Community milestones shared by maintainers: CloudAdhar community 22,000+ learners, TrainWithShubham community 1,06,000+ learners, combined learner reach 1,75,000+.
 
-| Domain | Guide |
-| --- | --- |
-| Linux | [LINUX/README.md](LINUX/README.md) |
-| Networking | [Networking/README.md](Networking/README.md) |
-| AWS | [AWS/README.md](AWS/README.md) |
-| Azure | [Azure/README.md](Azure/README.md) |
-| GCP | [GCP/README.md](GCP/README.md) |
-| Multi-cloud | [Cloud_providers/README.md](Cloud_providers/README.md) |
-| DevOps | [DevOps/README.md](DevOps/README.md) |
-| CI/CD | [CI-CD/README.md](CI-CD/README.md) |
-| Containers | [Containers/README.md](Containers/README.md) |
-| Kubernetes | [Kubernetes/README.md](Kubernetes/README.md) |
-| Infrastructure as Code | [Infrastructure-as-Code/README.md](Infrastructure-as-Code/README.md) |
-| DevSecOps & Security | [DevSecOps/README.md](DevSecOps/README.md) |
-| Security | [Security/README.md](Security/README.md) |
-| Observability | [Observability/README.md](Observability/README.md) |
-| AI / ML / MLOps | [AI-ML-MLOps/README.md](AI-ML-MLOps/README.md) |
-| Agentic AI | [Agentic-AI/README.md](Agentic-AI/README.md) |
-| Tools | [Tools/README.md](Tools/README.md) |
-| Interview Prep | [Interview/README.md](Interview/README.md) |
-| Books & References | [Books/README.md](Books/README.md) |
-
-## Stack Maps
-
-| Stack | Guide |
-| --- | --- |
-| DevOps Tool Stack | [stacks/devops-tool-stack.md](stacks/devops-tool-stack.md) |
-| Cloud Tool Stack | [stacks/cloud-tool-stack.md](stacks/cloud-tool-stack.md) |
-| AI / ML / MLOps Tool Stack | [stacks/ai-ml-mlops-tool-stack.md](stacks/ai-ml-mlops-tool-stack.md) |
-| Full-Stack Developer Tool Stack | [stacks/full-stack-tool-stack.md](stacks/full-stack-tool-stack.md) |
-
-## Tool Coverage
-
-This repo includes learning tracks for Git, GitHub, GitLab, Jenkins, GitHub Actions, GitLab CI/CD, Docker, Kubernetes, Helm, Terraform, Ansible, Argo CD, Nginx, Kong Gateway, Prometheus, Grafana, OpenTelemetry, SonarQube, Nexus Repository, JFrog Artifactory, Jira, Confluence, draw.io, Trivy, Checkov, Snyk, OWASP, AWS, Azure, GCP, SageMaker, Azure ML, Vertex AI, MLflow, Kubeflow, vector databases, RAG, and agentic AI systems.
-
-## Practical Demo
-
-This repository keeps the existing classroom AWS demo:
-
-```text
-VS Code -> GitHub -> GitHub Actions -> Terraform -> AWS EC2 -> User Data -> Live Website
-```
-
-See:
-
-- [demo/demo-script.md](demo/demo-script.md)
-- [demo/cleanup-guide.md](demo/cleanup-guide.md)
-- [terraform/](terraform/)
-
-## Repository Structure
+## Repository Map
 
 ```text
 .
-├── AWS/ Azure/ GCP/ Cloud_providers/
+├── docs/learner-tracks/        # Role-wise learning paths and scenario interview questions
+├── tool-guides/                # Individual tool deep dives
+├── labs/                       # Hands-on labs
+├── projects/                   # Portfolio projects
+├── roadmaps/                   # Long-form learning roadmaps
+├── stacks/                     # Tool stack maps
+├── AWS/ Azure/ GCP/            # Cloud notes
 ├── DevOps/ DevSecOps/ Security/
-├── CI-CD/ Containers/ Kubernetes/ Infrastructure-as-Code/
 ├── AI-ML-MLOps/ Agentic-AI/
-├── Observability/ LINUX/ Networking/ Tools/
+├── Observability/ LINUX/ Networking/
 ├── Interview/ Books/
-├── tool-guides/ docs/ stacks/ labs/ roadmaps/ projects/ certifications/
-├── demo/ terraform/ logs/
-├── logs/url-validation-log.md
-├── CONTRIBUTING.md
-└── README.md
+├── logs/                       # Validation, research, and learning logs
+└── .github/workflows/          # Automation and link checking
 ```
-
-## Topic Coverage
-
-All major starter links were checked on **2026-07-08** against official documentation or maintained project documentation where possible. See [logs/url-validation-log.md](logs/url-validation-log.md).
-
-Contributors should prefer official documentation, CNCF/project documentation, cloud provider docs, or vendor docs over random blogs. Blog posts are welcome only when they add practical hands-on value.
-
-The repository also includes a pull-request link checker at [.github/workflows/link-check.yml](.github/workflows/link-check.yml).
-
-## Logs and Templates
-
-- [Topic Coverage Log](logs/url-validation-log.md)
-- [Research Notes](logs/research-notes.md)
-- [Learning Log Template](logs/learning-log-template.md)
-- [Troubleshooting Log Template](logs/troubleshooting-log-template.md)
-- [External Image Credits](logs/external-image-credits.md)
-- [Community Discussions](docs/community-discussions.md)
 
 ## Contribution Welcome
 
-This repository is designed for community contribution. Learners can contribute:
-
-- Notes
-- Commands
-- Diagrams
-- Interview questions
-- Labs
-- Project ideas
-- Validated resource links
-- Troubleshooting logs
-- Cloud cost cleanup steps
-
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+Learners can contribute notes, diagrams, labs, interview questions, tool comparisons, troubleshooting logs, weekly update summaries, and portfolio projects. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## Important Message
 
-Do not learn randomly. Build Linux, networking, Git, cloud, and scripting fundamentals first. Then choose a track, build projects, document everything, and contribute back.
+Do not learn randomly. Build foundation first, choose one track, complete labs, write notes, explain scenarios, and only then expand into adjacent tools.
