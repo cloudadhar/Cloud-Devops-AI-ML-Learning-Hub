@@ -4,8 +4,21 @@ Use GitHub Discussions to keep learners and contributors aligned.
 
 ## CloudAdhar Social Links
 
+- [Website: Train With CloudAdhar](https://www.trainwithcloudadhar.com/)
+- [LinkedIn: Gangadhar Ure](https://www.linkedin.com/in/gangadharure/)
 - [YouTube: @cloudadhar](https://www.youtube.com/@cloudadhar)
 - [Instagram: @cloudadhar](https://www.instagram.com/cloudadhar/)
+
+## TrainWithShubham Social Links
+
+- [Website: Train With Shubham](https://www.trainwithshubham.com/)
+- [LinkedIn: Shubham Londhe](https://www.linkedin.com/in/shubhamlondhe1996/)
+- [YouTube: @TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
+- [Instagram: @trainwithshubham__](https://www.instagram.com/trainwithshubham__/?hl=en)
+
+## Common Platform
+
+- [CertCraft AI](https://www.certcraft.ai/)
 
 ## Announcements
 

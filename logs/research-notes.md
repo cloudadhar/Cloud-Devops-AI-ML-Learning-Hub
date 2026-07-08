@@ -2,11 +2,9 @@
 
 Created: 2026-07-08
 
-## Reference Repository Shape
+## Repository Direction
 
-The reference repository `Tikam02/DevOps-Guide` uses a broad folder-based learning format with top-level areas such as CI/CD, cloud providers, container orchestration, DevOps, infrastructure provisioning, Linux, networking, observability, interviews, and books.
-
-This repository follows that navigable style while expanding the scope into:
+This repository is maintained as an original CloudAdhar learning hub with a navigable, topic-based structure across:
 
 - AWS, Azure, and GCP
 - DevOps and DevSecOps

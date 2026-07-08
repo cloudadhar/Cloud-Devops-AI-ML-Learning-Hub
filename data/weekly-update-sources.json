@@ -1,0 +1,79 @@
+{
+  "window_days": 10,
+  "max_items_per_source": 8,
+  "max_items_total": 80,
+  "sources": [
+    {
+      "name": "AWS What's New",
+      "area": "AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "AWS News Blog",
+      "area": "AWS",
+      "url": "https://aws.amazon.com/blogs/aws/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Azure Blog",
+      "area": "Azure",
+      "url": "https://azure.microsoft.com/en-us/blog/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Google Cloud Release Notes",
+      "area": "Google Cloud",
+      "url": "https://docs.cloud.google.com/feeds/gcp-release-notes.xml",
+      "type": "atom"
+    },
+    {
+      "name": "GitHub Changelog",
+      "area": "GitHub and DevOps",
+      "url": "https://github.blog/changelog/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "GitHub Blog",
+      "area": "GitHub and DevOps",
+      "url": "https://github.blog/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Microsoft DevOps Blog",
+      "area": "Azure and DevOps",
+      "url": "https://devblogs.microsoft.com/devops/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Kubernetes Blog",
+      "area": "Containers and Kubernetes",
+      "url": "https://kubernetes.io/feed.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Docker Blog",
+      "area": "Containers and Kubernetes",
+      "url": "https://www.docker.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Terraform Releases",
+      "area": "IaC and Automation",
+      "url": "https://github.com/hashicorp/terraform/releases.atom",
+      "type": "atom"
+    },
+    {
+      "name": "Grafana Blog",
+      "area": "Observability",
+      "url": "https://grafana.com/blog/index.xml",
+      "type": "rss"
+    },
+    {
+      "name": "CNCF Blog",
+      "area": "Cloud Native",
+      "url": "https://www.cncf.io/feed/",
+      "type": "rss"
+    }
+  ]
+}

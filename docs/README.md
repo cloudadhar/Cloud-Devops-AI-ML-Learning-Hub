@@ -9,11 +9,13 @@ This folder explains how to use the repository as a complete learning system, no
 - [Learning Method](learning-method.md)
 - [Zero to Advanced Study Plan](zero-to-advanced-study-plan.md)
 - [Weekly Practice Plan](weekly-practice-plan.md)
+- [Weekly Learner Tech Updates](weekly-updates/README.md)
 - [Interview Preparation Guide](interview-preparation-guide.md)
 - [Portfolio and GitHub Profile Guide](portfolio-github-guide.md)
 - [Tool Selection Guide](tool-selection-guide.md)
 - [Content Originality Policy](content-originality-policy.md)
 - [Community Discussions](community-discussions.md)
+- [Founders and Community](founders-and-community.md)
 - [URL Research and Validation Policy](url-research-validation-policy.md)
 - [Contribution Workflow](contribution-workflow.md)
 

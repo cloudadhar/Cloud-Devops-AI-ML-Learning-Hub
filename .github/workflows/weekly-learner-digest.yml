@@ -1,0 +1,54 @@
+name: Weekly Learner Tech Digest
+
+on:
+  schedule:
+    # Every Monday at 03:00 UTC / 08:30 IST.
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Lookback window in days"
+        required: false
+        default: "10"
+      max_items:
+        description: "Maximum update items to keep"
+        required: false
+        default: "80"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-learner-tech-digest
+  cancel-in-progress: false
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate weekly digest
+        run: |
+          python scripts/generate_weekly_digest.py \
+            --days "${{ github.event.inputs.days || '10' }}" \
+            --max-items "${{ github.event.inputs.max_items || '80' }}"
+
+      - name: Commit digest if changed
+        run: |
+          if git diff --quiet; then
+            echo "No weekly digest changes to commit."
+            exit 0
+          fi
+
+          git config user.name "cloudadhar-weekly-bot"
+          git config user.email "actions@github.com"
+          git add docs/weekly-updates
+          git commit -m "Update weekly learner tech digest"
+          git push

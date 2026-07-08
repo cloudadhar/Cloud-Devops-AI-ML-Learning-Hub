@@ -11,6 +11,13 @@
 [![YouTube](https://img.shields.io/badge/YouTube-cloudadhar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cloudadhar)
 [![Instagram](https://img.shields.io/badge/Instagram-cloudadhar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cloudadhar/)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-FF6B00?style=for-the-badge&logo=githubsponsors&logoColor=white)](CONTRIBUTING.md)
+[![CloudAdhar Website](https://img.shields.io/badge/Website-Train%20With%20CloudAdhar-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.trainwithcloudadhar.com/)
+[![CertCraft AI](https://img.shields.io/badge/CertCraft-AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://www.certcraft.ai/)
+[![Gangadhar LinkedIn](https://img.shields.io/badge/LinkedIn-Gangadhar%20Ure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangadharure/)
+[![Shubham Website](https://img.shields.io/badge/Website-Train%20With%20Shubham-F97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.trainwithshubham.com/)
+[![Shubham YouTube](https://img.shields.io/badge/YouTube-TrainWithShubham-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TrainWithShubham)
+[![Shubham LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Londhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamlondhe1996/)
+[![Shubham Instagram](https://img.shields.io/badge/Instagram-trainwithshubham__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trainwithshubham__/?hl=en)
 
 
 <br>
@@ -26,7 +33,23 @@ Open the visual dashboard below and click any topic logo to start learning.
 
 This repository helps students, freshers, and working engineers learn by following structured roadmaps, hands-on labs, detailed notes, validated URLs, interview preparation, and portfolio-ready projects.
 
-It is inspired by the broad folder-based style of [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide), but expanded for modern **Cloud + DevOps + DevSecOps + AI/ML + MLOps + Agentic AI** learning.
+Built by the CloudAdhar learning community as an original, zero-to-advanced hub for modern **Cloud + DevOps + DevSecOps + AI/ML + MLOps + Agentic AI** learning.
+
+## Find More About Us
+
+| Platform | Link |
+| --- | --- |
+| CloudAdhar Website | [trainwithcloudadhar.com](https://www.trainwithcloudadhar.com/) |
+| Gangadhar Ure LinkedIn | [linkedin.com/in/gangadharure](https://www.linkedin.com/in/gangadharure/) |
+| CloudAdhar YouTube | [youtube.com/@cloudadhar](https://www.youtube.com/@cloudadhar) |
+| CloudAdhar Instagram | [instagram.com/cloudadhar](https://www.instagram.com/cloudadhar/) |
+| TrainWithShubham Website | [trainwithshubham.com](https://www.trainwithshubham.com/) |
+| Shubham Londhe LinkedIn | [linkedin.com/in/shubhamlondhe1996](https://www.linkedin.com/in/shubhamlondhe1996/) |
+| TrainWithShubham YouTube | [youtube.com/@TrainWithShubham](https://www.youtube.com/@TrainWithShubham) |
+| TrainWithShubham Instagram | [instagram.com/trainwithshubham__](https://www.instagram.com/trainwithshubham__/?hl=en) |
+| CertCraft AI | [certcraft.ai](https://www.certcraft.ai/) |
+
+**Community milestones shared by maintainers:** CloudAdhar community 22,000+ learners, TrainWithShubham community 1,06,000+ learners, combined learner reach 1,75,000+.
 
 ## Start Here
 
@@ -42,6 +65,8 @@ It is inspired by the broad folder-based style of [Tikam02/DevOps-Guide](https:/
 | 8 | [Tool Deep Dives](tool-guides/README.md) | Detailed architecture, usage, pipelines, advanced topics, and interviews |
 | 9 | [Content Originality Policy](docs/content-originality-policy.md) | How we use sources without copying third-party content |
 | 10 | [Community Discussions](docs/community-discussions.md) | Follow announcements, YouTube, Instagram, and community updates |
+| 11 | [Weekly Learner Tech Updates](docs/weekly-updates/README.md) | Auto-generated weekly focus guide from official feeds |
+| 12 | [Founders and Community](docs/founders-and-community.md) | CloudAdhar, TrainWithShubham, CertCraft AI, and social links |
 
 ## Clickable Topic Dashboard
 
@@ -362,6 +387,16 @@ These external images are displayed unchanged from the public `fekiayman/devops-
     </td>
   </tr>
 </table>
+
+## Weekly Automation
+
+Every Monday, GitHub Actions runs [Weekly Learner Tech Digest](.github/workflows/weekly-learner-digest.yml). It reads official/public feeds for AWS, Azure, Google Cloud, GitHub, DevOps, Kubernetes, Docker, Terraform, Grafana, and CNCF updates, then generates:
+
+- [Latest Weekly Digest](docs/weekly-updates/latest.md)
+- [Weekly Digest Archive](docs/weekly-updates/README.md)
+- Source config: [data/weekly-update-sources.json](data/weekly-update-sources.json)
+
+Learners can use the digest to decide what to focus on each week and convert updates into notes, labs, and interview answers.
 
 ## Detailed Learning System
 

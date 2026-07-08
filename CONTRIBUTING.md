@@ -9,6 +9,12 @@ Follow repository announcements here:
 - [Announcements Discussion Category](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements)
 - [YouTube: @cloudadhar](https://www.youtube.com/@cloudadhar)
 - [Instagram: @cloudadhar](https://www.instagram.com/cloudadhar/)
+- [Train With CloudAdhar](https://www.trainwithcloudadhar.com/)
+- [Train With Shubham](https://www.trainwithshubham.com/)
+- [YouTube: @TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
+- [LinkedIn: Shubham Londhe](https://www.linkedin.com/in/shubhamlondhe1996/)
+- [Instagram: @trainwithshubham__](https://www.instagram.com/trainwithshubham__/?hl=en)
+- [CertCraft AI](https://www.certcraft.ai/)
 
 Use discussions for general learning questions, roadmap proposals, and community updates. Use issues for broken links, bugs, lab requests, and specific documentation fixes.
 

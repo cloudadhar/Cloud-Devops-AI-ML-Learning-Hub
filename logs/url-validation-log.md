@@ -6,7 +6,6 @@ This log records starter links checked while creating the repository. Prefer the
 
 | Area | URL | Status | Notes |
 | --- | --- | --- | --- |
-| Reference repo | https://github.com/Tikam02/DevOps-Guide | Valid | Used only as structural inspiration. |
 | AWS Docs | https://docs.aws.amazon.com/ | Valid | Official AWS documentation entry point. |
 | Azure Docs | https://learn.microsoft.com/en-us/azure/ | Valid | Official Microsoft Learn Azure docs. |
 | Google Cloud Docs | https://cloud.google.com/docs | Valid | Redirects to Google Cloud documentation. |
