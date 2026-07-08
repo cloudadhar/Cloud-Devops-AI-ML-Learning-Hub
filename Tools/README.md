@@ -53,6 +53,10 @@
 6. How do you monitor it?
 7. How do you troubleshoot it?
 
+## Detailed Tool Guides
+
+- [Tool Deep Dives](../tool-guides/README.md)
+
 ## Stack Maps
 
 - [DevOps Tool Stack](../stacks/devops-tool-stack.md)

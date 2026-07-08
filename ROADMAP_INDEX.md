@@ -7,6 +7,7 @@
 3. [Networking Guide](Networking/README.md)
 4. [DevOps Guide](DevOps/README.md)
 5. [Technology Stack Maps](stacks/README.md)
+6. [Tool Deep Dives](tool-guides/README.md)
 
 ## Cloud and DevOps
 

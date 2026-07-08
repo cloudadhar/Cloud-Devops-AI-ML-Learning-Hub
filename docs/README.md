@@ -4,6 +4,7 @@ This folder explains how to use the repository as a complete learning system, no
 
 ## Start Here
 
+- [Tool Deep Dives](../tool-guides/README.md)
 - [How to Use This Repository](how-to-use-this-repo.md)
 - [Learning Method](learning-method.md)
 - [Zero to Advanced Study Plan](zero-to-advanced-study-plan.md)
@@ -11,6 +12,7 @@ This folder explains how to use the repository as a complete learning system, no
 - [Interview Preparation Guide](interview-preparation-guide.md)
 - [Portfolio and GitHub Profile Guide](portfolio-github-guide.md)
 - [Tool Selection Guide](tool-selection-guide.md)
+- [Content Originality Policy](content-originality-policy.md)
 - [URL Research and Validation Policy](url-research-validation-policy.md)
 - [Contribution Workflow](contribution-workflow.md)
 

@@ -8,6 +8,7 @@ Read:
 - `docs/how-to-use-this-repo.md`
 - `docs/learning-method.md`
 - `docs/zero-to-advanced-study-plan.md`
+- `tool-guides/README.md`
 - `roadmaps/00-foundation-roadmap.md`
 - `LINUX/README.md`
 - `Networking/README.md`

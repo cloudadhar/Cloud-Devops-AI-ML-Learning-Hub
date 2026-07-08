@@ -23,6 +23,7 @@ Thank you for helping learners. This repo is meant to become a practical, commun
 5. Do not add pirated books, copyrighted dumps, leaked exam questions, or paid course mirrors.
 6. For cloud labs, always include cleanup steps.
 7. For security content, keep it defensive, educational, and legal.
+8. Do not copy or lightly rephrase whole third-party repositories. Follow `docs/content-originality-policy.md`.
 
 ## Link Format
 
