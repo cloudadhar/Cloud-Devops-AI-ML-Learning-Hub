@@ -2,6 +2,16 @@
 
 Thank you for helping learners. This repo is meant to become a practical, community-maintained guide for Cloud, DevOps, DevSecOps, AI/ML, MLOps, Linux, and related tools.
 
+## Community Discussions
+
+Follow repository announcements here:
+
+- [Announcements Discussion Category](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements)
+- [YouTube: @cloudadhar](https://www.youtube.com/@cloudadhar)
+- [Instagram: @cloudadhar](https://www.instagram.com/cloudadhar/)
+
+Use discussions for general learning questions, roadmap proposals, and community updates. Use issues for broken links, bugs, lab requests, and specific documentation fixes.
+
 ## What You Can Contribute
 
 - Beginner-friendly notes

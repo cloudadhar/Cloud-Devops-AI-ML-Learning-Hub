@@ -7,6 +7,9 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-cloudadhar-181717?style=for-the-badge&logo=github)](https://github.com/cloudadhar)
 [![Learning Hub](https://img.shields.io/badge/Learning-Hub-00C2FF?style=for-the-badge&logo=bookstack&logoColor=white)](docs/README.md)
 [![Hands-on Labs](https://img.shields.io/badge/Hands--on-Labs-22C55E?style=for-the-badge&logo=gitbook&logoColor=white)](labs/README.md)
+[![Discussions](https://img.shields.io/badge/Discussions-Announcements-7C3AED?style=for-the-badge&logo=githubdiscussions&logoColor=white)](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements)
+[![YouTube](https://img.shields.io/badge/YouTube-cloudadhar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cloudadhar)
+[![Instagram](https://img.shields.io/badge/Instagram-cloudadhar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cloudadhar/)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-FF6B00?style=for-the-badge&logo=githubsponsors&logoColor=white)](CONTRIBUTING.md)
 
 
@@ -38,6 +41,7 @@ It is inspired by the broad folder-based style of [Tikam02/DevOps-Guide](https:/
 | 7 | [Technology Stack Maps](stacks/README.md) | Tool stacks for DevOps, Cloud, AI/ML, and Full-Stack |
 | 8 | [Tool Deep Dives](tool-guides/README.md) | Detailed architecture, usage, pipelines, advanced topics, and interviews |
 | 9 | [Content Originality Policy](docs/content-originality-policy.md) | How we use sources without copying third-party content |
+| 10 | [Community Discussions](docs/community-discussions.md) | Follow announcements, YouTube, Instagram, and community updates |
 
 ## Clickable Topic Dashboard
 
@@ -376,6 +380,9 @@ These external images are displayed unchanged from the public `fekiayman/devops-
 | Troubleshooting method | [docs/troubleshooting-method.md](docs/troubleshooting-method.md) |
 | Hands-on labs | [labs/README.md](labs/README.md) |
 | Content originality policy | [docs/content-originality-policy.md](docs/content-originality-policy.md) |
+| Community announcements | [GitHub Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements) |
+| YouTube channel | [@cloudadhar](https://www.youtube.com/@cloudadhar) |
+| Instagram | [@cloudadhar](https://www.instagram.com/cloudadhar/) |
 
 ## Learning Domains
 
@@ -460,6 +467,7 @@ The repository also includes a pull-request link checker at [.github/workflows/l
 - [Learning Log Template](logs/learning-log-template.md)
 - [Troubleshooting Log Template](logs/troubleshooting-log-template.md)
 - [External Image Credits](logs/external-image-credits.md)
+- [Community Discussions](docs/community-discussions.md)
 
 ## Contribution Welcome
 

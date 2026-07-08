@@ -13,6 +13,7 @@ This folder explains how to use the repository as a complete learning system, no
 - [Portfolio and GitHub Profile Guide](portfolio-github-guide.md)
 - [Tool Selection Guide](tool-selection-guide.md)
 - [Content Originality Policy](content-originality-policy.md)
+- [Community Discussions](community-discussions.md)
 - [URL Research and Validation Policy](url-research-validation-policy.md)
 - [Contribution Workflow](contribution-workflow.md)
 
