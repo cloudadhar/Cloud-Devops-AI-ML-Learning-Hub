@@ -45,6 +45,7 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
 | Build a private RAG Q&A AI agent | [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) |
 | Study curated freeCodeCamp references | [freeCodeCamp Learning Map](docs/freecodecamp-learning-map.md) |
 | Follow detailed freeCodeCamp step guides | [Detailed freeCodeCamp Study Guides](docs/freecodecamp-guides/README.md) |
+| View original diagrams for submitted URLs | [Original Architecture Diagrams](docs/freecodecamp-guides/original-architecture-diagrams.md) |
 | See latest weekly tech focus | [Weekly Learner Tech Updates](docs/weekly-updates/latest.md) |
 | Ask or follow announcements | [GitHub Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements) |
 

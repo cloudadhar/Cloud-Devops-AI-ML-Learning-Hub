@@ -12,6 +12,7 @@ Use these pages after opening [freeCodeCamp Learning Map](../freecodecamp-learni
 | DevOps foundations and automation | [DevOps Foundations and Automation](devops-foundations-and-automation.md) | Learners starting with Linux, Git, DevOps concepts, Bash, Python, testing, and common mistakes |
 | Cloud, CI/CD, security, and platforms | [Cloud CI/CD and Security](cloud-cicd-and-security.md) | Learners working on AWS, Azure DevOps, GitHub Actions, GitLab CI, OIDC, RBAC, homelab, and deployment pipelines |
 | Git, GitHub, and CI debugging | [Git GitHub and CI Debugging](git-github-ci-debugging.md) | Learners practicing Git collaboration, pull requests, and failing CI fixes |
+| Visual architecture pack | [Original Architecture Diagrams](original-architecture-diagrams.md) | One original renderable diagram for every submitted freeCodeCamp resource |
 
 ## How To Study Each Resource
 
@@ -35,3 +36,5 @@ Do not copy article paragraphs or screenshots into this repo. Capture the idea, 
 - What errors did you face?
 - How did you verify it?
 - How would you explain it in an interview?
+
+For diagrams, use [Original Architecture Diagrams](original-architecture-diagrams.md) or create your own visuals. Do not copy third-party screenshots, illustrations, or article diagrams.

@@ -23,6 +23,7 @@ Validation date: 2026-07-08
 | DevOps foundations, Bash, Python, testing, prerequisites | [DevOps Foundations and Automation](freecodecamp-guides/devops-foundations-and-automation.md) |
 | AWS, Azure DevOps, GitLab CI, GitHub Actions, OIDC, RBAC, homelab | [Cloud CI/CD and Security](freecodecamp-guides/cloud-cicd-and-security.md) |
 | Git, GitHub, pull requests, CI troubleshooting | [Git GitHub and CI Debugging](freecodecamp-guides/git-github-ci-debugging.md) |
+| Original diagrams for all submitted URLs | [Original Architecture Diagrams](freecodecamp-guides/original-architecture-diagrams.md) |
 
 ## Quick Path By Goal
 
