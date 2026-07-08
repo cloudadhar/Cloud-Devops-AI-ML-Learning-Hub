@@ -1,0 +1,92 @@
+name: Deploy AWS EC2 Demo
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Terraform action to run"
+        required: true
+        default: "plan"
+        type: choice
+        options:
+          - plan
+          - apply
+          - destroy
+      aws_region:
+        description: "AWS region"
+        required: true
+        default: "ap-south-1"
+        type: string
+      instance_type:
+        description: "EC2 instance type"
+        required: true
+        default: "t2.micro"
+        type: string
+      allowed_http_cidr:
+        description: "CIDR allowed to access the demo website"
+        required: true
+        default: "0.0.0.0/0"
+        type: string
+
+permissions:
+  id-token: write
+  contents: read
+
+concurrency:
+  group: terraform-ec2-demo
+  cancel-in-progress: false
+
+jobs:
+  terraform:
+    name: Terraform ${{ github.event.inputs.action }}
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: terraform
+
+    env:
+      TF_IN_AUTOMATION: "true"
+      TF_INPUT: "false"
+      AWS_REGION: ${{ github.event.inputs.aws_region }}
+      TF_VAR_aws_region: ${{ github.event.inputs.aws_region }}
+      TF_VAR_instance_type: ${{ github.event.inputs.instance_type }}
+      TF_VAR_allowed_http_cidr: ${{ github.event.inputs.allowed_http_cidr }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials using OIDC
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+
+      - name: Terraform Init
+        run: terraform init
+
+      - name: Terraform Format Check
+        run: terraform fmt -check
+
+      - name: Terraform Validate
+        run: terraform validate
+
+      - name: Terraform Plan
+        if: github.event.inputs.action == 'plan' || github.event.inputs.action == 'apply'
+        run: terraform plan -out=tfplan
+
+      - name: Terraform Apply
+        if: github.event.inputs.action == 'apply'
+        run: terraform apply -auto-approve tfplan
+
+      - name: Terraform Output
+        if: github.event.inputs.action == 'apply'
+        run: terraform output -no-color
+
+      - name: Terraform Destroy
+        if: github.event.inputs.action == 'destroy'
+        run: terraform destroy -auto-approve
