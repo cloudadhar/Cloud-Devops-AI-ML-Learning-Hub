@@ -35,6 +35,27 @@ This repository helps students, freshers, and working engineers learn by followi
 
 Built by the CloudAdhar learning community as an original, zero-to-advanced hub for modern **Cloud + DevOps + DevSecOps + AI/ML + MLOps + Agentic AI** learning.
 
+## Quick Share and Navigation
+
+| Need | Open This |
+| --- | --- |
+| Share the repo on WhatsApp or LinkedIn | [Share This Repo](docs/share-this-repo.md) |
+| Find the right topic quickly | [Easy Navigation](docs/easy-navigation.md) |
+| Follow a 30-60-90 day plan | [Learner Focus Plan](docs/learner-focus-30-60-90.md) |
+| Build a private RAG Q&A AI agent | [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) |
+| See latest weekly tech focus | [Weekly Learner Tech Updates](docs/weekly-updates/latest.md) |
+| Ask or follow announcements | [GitHub Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements) |
+
+## Featured Hands-on AI Project
+
+<a href="projects/private-rag-qa-agent/README.md">
+  <img src="assets/architecture/private-rag-qa-agent.svg" alt="Private RAG Q&A AI Agent Architecture" width="100%">
+</a>
+
+| Project | What Learners Practice |
+| --- | --- |
+| [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) | LangChain, Ollama, Chroma, local embeddings, document Q&A, citations, production upgrade path, and interview explanation |
+
 ## Find More About Us
 
 | Platform | Link |
@@ -67,6 +88,10 @@ Built by the CloudAdhar learning community as an original, zero-to-advanced hub 
 | 10 | [Community Discussions](docs/community-discussions.md) | Follow announcements, YouTube, Instagram, and community updates |
 | 11 | [Weekly Learner Tech Updates](docs/weekly-updates/README.md) | Auto-generated weekly focus guide from official feeds |
 | 12 | [Founders and Community](docs/founders-and-community.md) | CloudAdhar, TrainWithShubham, CertCraft AI, and social links |
+| 13 | [Share This Repo](docs/share-this-repo.md) | Ready-to-send WhatsApp and LinkedIn messages |
+| 14 | [Easy Navigation](docs/easy-navigation.md) | Simple route for learners who feel lost |
+| 15 | [30-60-90 Learner Focus](docs/learner-focus-30-60-90.md) | Clear monthly learning plan |
+| 16 | [Private RAG Q&A AI Agent](projects/private-rag-qa-agent/README.md) | Hands-on Agentic AI project using local documents |
 
 ## Clickable Topic Dashboard
 
@@ -333,7 +358,7 @@ Click any logo to open the matching detailed guide, lab, or official documentati
       </a>
     </td>
     <td align="center" width="16.6%">
-      <a href="tool-guides/ai-ml/rag-agentic-ai.md">
+      <a href="projects/private-rag-qa-agent/README.md">
         <img src="https://raw.githubusercontent.com/fekiayman/devops-exercises/master/images/system_design_notebook.png" width="76" height="76" alt="RAG/Agents" title="RAG/Agents" /><br>
         <b>RAG/Agents</b>
       </a>
@@ -342,6 +367,14 @@ Click any logo to open the matching detailed guide, lab, or official documentati
 </table>
 
 ## Architecture and Reference Visuals
+
+Original CloudAdhar project architecture:
+
+<p align="center">
+  <a href="projects/private-rag-qa-agent/README.md">
+    <img src="assets/architecture/private-rag-qa-agent.svg" width="720" alt="Private RAG Q&A AI Agent Architecture" />
+  </a>
+</p>
 
 These external images are displayed unchanged from the public `fekiayman/devops-exercises` repository and are used as visual learning references. See [external image credits](logs/external-image-credits.md).
 

@@ -29,6 +29,7 @@
 
 ## Projects
 
+- [Private RAG Q&A AI Agent](../projects/private-rag-qa-agent/README.md)
 - College FAQ agent
 - Cloud cost explainer agent
 - DevOps troubleshooting assistant
@@ -49,3 +50,4 @@
 ## Supporting Docs
 
 - [RAG and Agent Notes](rag-and-agent-notes.md)
+- [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)

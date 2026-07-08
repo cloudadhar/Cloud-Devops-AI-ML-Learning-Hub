@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="760" viewBox="0 0 1180 760" role="img" aria-labelledby="title desc">
+  <title id="title">Private RAG Q&amp;A AI Agent Architecture</title>
+  <desc id="desc">Architecture showing document ingestion, chunking, embeddings, vector search, local LLM generation, and cited answers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="48%" stop-color="#102033"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="indexLane" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="queryLane" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f97316" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#d7e3f4"/>
+    </marker>
+    <style>
+      .title { font-family: Inter, Arial, sans-serif; font-size: 34px; font-weight: 800; fill: #f8fafc; }
+      .subtitle { font-family: Inter, Arial, sans-serif; font-size: 17px; fill: #b6c4d8; }
+      .lane-title { font-family: Inter, Arial, sans-serif; font-size: 20px; font-weight: 800; fill: #f8fafc; }
+      .box-title { font-family: Inter, Arial, sans-serif; font-size: 18px; font-weight: 800; fill: #f8fafc; }
+      .box-text { font-family: Inter, Arial, sans-serif; font-size: 14px; fill: #cbd5e1; }
+      .tag { font-family: Inter, Arial, sans-serif; font-size: 12px; font-weight: 700; fill: #0f172a; }
+      .line { stroke: #d7e3f4; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .soft-line { stroke: #7dd3fc; stroke-width: 2.5; fill: none; stroke-dasharray: 8 8; }
+    </style>
+  </defs>
+
+  <rect width="1180" height="760" rx="28" fill="url(#bg)"/>
+  <circle cx="104" cy="99" r="58" fill="#0ea5e9" opacity="0.16"/>
+  <circle cx="1054" cy="133" r="76" fill="#22c55e" opacity="0.12"/>
+  <circle cx="1010" cy="630" r="100" fill="#8b5cf6" opacity="0.13"/>
+
+  <text x="60" y="68" class="title">Private RAG Q&amp;A AI Agent</text>
+  <text x="60" y="101" class="subtitle">Ask questions on your own PDFs, Markdown, and text files with local retrieval and source citations.</text>
+
+  <rect x="46" y="137" width="1088" height="258" rx="24" fill="url(#indexLane)" stroke="#334155"/>
+  <rect x="46" y="427" width="1088" height="272" rx="24" fill="url(#queryLane)" stroke="#334155"/>
+
+  <text x="72" y="176" class="lane-title">Indexing Flow: run when documents change</text>
+  <text x="72" y="466" class="lane-title">Question Flow: run for every learner query</text>
+
+  <g filter="url(#shadow)">
+    <rect x="82" y="215" width="170" height="92" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+    <text x="108" y="251" class="box-title">Documents</text>
+    <text x="108" y="278" class="box-text">PDF, MD, TXT</text>
+
+    <rect x="308" y="215" width="170" height="92" rx="14" fill="#0f172a" stroke="#2dd4bf" stroke-width="2"/>
+    <text x="333" y="251" class="box-title">Loaders</text>
+    <text x="333" y="278" class="box-text">Extract clean text</text>
+
+    <rect x="534" y="215" width="170" height="92" rx="14" fill="#0f172a" stroke="#a3e635" stroke-width="2"/>
+    <text x="559" y="251" class="box-title">Chunking</text>
+    <text x="559" y="278" class="box-text">Split with overlap</text>
+
+    <rect x="760" y="215" width="170" height="92" rx="14" fill="#0f172a" stroke="#facc15" stroke-width="2"/>
+    <text x="785" y="251" class="box-title">Embeddings</text>
+    <text x="785" y="278" class="box-text">nomic-embed-text</text>
+
+    <path d="M1014 222 C1068 222 1101 239 1101 260 L1101 327 C1101 348 1068 365 1014 365 C960 365 927 348 927 327 L927 260 C927 239 960 222 1014 222 Z" fill="#0f172a" stroke="#c084fc" stroke-width="2"/>
+    <ellipse cx="1014" cy="260" rx="87" ry="38" fill="#182236" stroke="#c084fc" stroke-width="2"/>
+    <text x="966" y="286" class="box-title">Vector DB</text>
+    <text x="966" y="323" class="box-text">Chroma local</text>
+  </g>
+
+  <path class="line" d="M252 261 H306"/>
+  <path class="line" d="M478 261 H532"/>
+  <path class="line" d="M704 261 H758"/>
+  <path class="line" d="M930 261 H952"/>
+
+  <g filter="url(#shadow)">
+    <rect x="82" y="508" width="178" height="92" rx="14" fill="#0f172a" stroke="#fb923c" stroke-width="2"/>
+    <text x="109" y="544" class="box-title">Question</text>
+    <text x="109" y="571" class="box-text">Natural language</text>
+
+    <rect x="322" y="508" width="178" height="92" rx="14" fill="#0f172a" stroke="#f59e0b" stroke-width="2"/>
+    <text x="349" y="544" class="box-title">Embed Query</text>
+    <text x="349" y="571" class="box-text">Same embedding model</text>
+
+    <rect x="562" y="508" width="178" height="92" rx="14" fill="#0f172a" stroke="#22c55e" stroke-width="2"/>
+    <text x="589" y="544" class="box-title">Retrieve</text>
+    <text x="589" y="571" class="box-text">Top-k similar chunks</text>
+
+    <rect x="802" y="508" width="178" height="92" rx="14" fill="#0f172a" stroke="#60a5fa" stroke-width="2"/>
+    <text x="829" y="544" class="box-title">Prompt Builder</text>
+    <text x="829" y="571" class="box-text">Question + context</text>
+
+    <rect x="342" y="637" width="218" height="92" rx="14" fill="#0f172a" stroke="#a78bfa" stroke-width="2"/>
+    <text x="371" y="673" class="box-title">Local LLM</text>
+    <text x="371" y="700" class="box-text">Qwen, Llama, Mistral</text>
+
+    <rect x="622" y="637" width="248" height="92" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+    <text x="651" y="673" class="box-title">Answer + Citations</text>
+    <text x="651" y="700" class="box-text">Grounded response with sources</text>
+  </g>
+
+  <path class="line" d="M260 554 H320"/>
+  <path class="line" d="M500 554 H560"/>
+  <path class="line" d="M740 554 H800"/>
+  <path class="line" d="M891 600 C891 676 560 574 543 638"/>
+  <path class="line" d="M560 683 H620"/>
+  <path class="soft-line" d="M1014 365 C1014 440 716 449 670 508"/>
+
+  <rect x="76" y="337" width="176" height="32" rx="16" fill="#7dd3fc"/>
+  <text x="102" y="358" class="tag">Private by default</text>
+  <rect x="268" y="337" width="158" height="32" rx="16" fill="#86efac"/>
+  <text x="295" y="358" class="tag">No API key required</text>
+  <rect x="442" y="337" width="172" height="32" rx="16" fill="#fde68a"/>
+  <text x="472" y="358" class="tag">Runs on laptop</text>
+  <rect x="630" y="337" width="196" height="32" rx="16" fill="#ddd6fe"/>
+  <text x="658" y="358" class="tag">Portfolio project ready</text>
+
+  <text x="72" y="732" class="subtitle">Upgrade path: FastAPI service, Docker image, GitHub Actions, authentication, evaluation set, logs, metrics, and Kubernetes deployment.</text>
+</svg>

@@ -6,6 +6,9 @@ A chatbot that answers questions about timetable, syllabus, assignments, college
 ### Skills used
 Full-Stack, AI, RAG, APIs, database, deployment
 
+### Hands-on starter
+[Private RAG Q&A AI Agent](private-rag-qa-agent/README.md) gives learners a local document Q&A build that can be adapted into a college assistant, policy assistant, or notes assistant.
+
 ## 2. Smart Assignment Reminder
 An AI-powered reminder app for assignments, exams, daily classes, and deadlines.
 

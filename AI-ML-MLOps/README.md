@@ -1,5 +1,9 @@
 # AI / ML / MLOps Guide
 
+## Featured Hands-on Project
+
+Start with [Private RAG Q&A AI Agent](../projects/private-rag-qa-agent/README.md) if you want a practical project that combines Agentic AI, RAG, LangChain, Ollama, Chroma, local embeddings, and source citations.
+
 ## Learning Order
 
 1. Python basics
@@ -38,6 +42,7 @@
 
 ## Project Ideas
 
+- [Private RAG Q&A AI Agent](../projects/private-rag-qa-agent/README.md)
 - House price prediction API
 - Resume screening assistant
 - RAG chatbot for college documents
@@ -62,3 +67,4 @@ Read [stacks/ai-ml-mlops-tool-stack.md](../stacks/ai-ml-mlops-tool-stack.md) for
 ## Supporting Docs
 
 - [MLOps Lifecycle Notes](mlops-lifecycle-notes.md)
+- [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)

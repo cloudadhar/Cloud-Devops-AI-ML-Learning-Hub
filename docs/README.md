@@ -4,6 +4,11 @@ This folder explains how to use the repository as a complete learning system, no
 
 ## Start Here
 
+- [Share This Repo](share-this-repo.md)
+- [Easy Navigation](easy-navigation.md)
+- [30-60-90 Learner Focus Plan](learner-focus-30-60-90.md)
+- [Projects](../projects/README.md)
+- [Private RAG Q&A AI Agent Project](../projects/private-rag-qa-agent/README.md)
 - [Tool Deep Dives](../tool-guides/README.md)
 - [How to Use This Repository](how-to-use-this-repo.md)
 - [Learning Method](learning-method.md)
