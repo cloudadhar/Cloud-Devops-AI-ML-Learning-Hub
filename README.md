@@ -11,9 +11,25 @@
 [![Discussions](https://img.shields.io/badge/GitHub-Discussions-7C3AED?style=for-the-badge&logo=githubdiscussions&logoColor=white)](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions/categories/announcements)
 [![Contribute](https://img.shields.io/badge/Contributions-Welcome-22C55E?style=for-the-badge&logo=githubsponsors&logoColor=white)](CONTRIBUTING.md)
 
+<img src="assets/people/gangadhar-ure-cloudadhar.jpg" width="900" alt="Gangadhar Ure, CloudAdhar founder and cloud, DevOps, and AWS mentor"/>
+
 </div>
 
 ---
+
+## Featured Guided Program: AWS Zero to Hero
+
+The **AWS Zero to Hero — Solutions Architect Associate (SAA-C03)** cohort is now in progress. Its dedicated repository combines the live learning sequence with architecture notes, outcome-based AWS challenges, diagrams, exam scenarios, safe evidence submission, cleanup guidance, and a learner Skillboard.
+
+| Continue the active AWS journey | Link |
+|---|---|
+| Dedicated batch repository | [AWS Zero to Hero — SAA-C03 Learning Hub](https://github.com/cloudadhar/AWS-Zero-to-Hero-SAA-C03) |
+| Current batch guide | [Continue the cohort](https://github.com/cloudadhar/AWS-Zero-to-Hero-SAA-C03/blob/main/CURRENT-BATCH.md) |
+| Session sequence | [Open the session map](https://github.com/cloudadhar/AWS-Zero-to-Hero-SAA-C03/tree/main/sessions) |
+| Hands-on architecture projects | [Build portfolio evidence](https://github.com/cloudadhar/AWS-Zero-to-Hero-SAA-C03/tree/main/projects) |
+| Exam-readiness module | [Practice for SAA-C03](https://github.com/cloudadhar/AWS-Zero-to-Hero-SAA-C03/tree/main/14-Practice) |
+
+> The program is presented as **in progress** rather than advertising an expired start date. Learners should use the session map as the source of truth.
 
 ## Pick Your Learning Track First
 
@@ -23,6 +39,7 @@ Different learners need different routes. A DevOps learner does not need to stud
 | --- | --- | --- |
 | ![Linux](https://img.shields.io/badge/Linux-Foundation-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git&logoColor=white) | Absolute beginners, support engineers, all roles | [Foundations: Linux, Networking, Git](docs/learner-tracks/foundations-linux-networking-git.md) |
 | ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Cloud engineers and solution learners | [Cloud Engineering](docs/learner-tracks/cloud-engineering.md) |
+| ![AWS SAA-C03](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Active AWS Zero to Hero cohort learners | [Dedicated SAA-C03 batch repository](https://github.com/cloudadhar/AWS-Zero-to-Hero-SAA-C03) |
 | ![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-Pipeline-D24939?style=flat-square&logo=jenkins&logoColor=white) | DevOps engineers, release engineers | [DevOps Engineering](docs/learner-tracks/devops-engineering.md) |
 | ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | Container, Kubernetes, GitOps learners | [Containers, Kubernetes, and GitOps](docs/learner-tracks/containers-kubernetes-gitops.md) |
 | ![Security](https://img.shields.io/badge/DevSecOps-Security-DC2626?style=flat-square&logo=owasp&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) | Security, DevSecOps, AppSec learners | [DevSecOps and Security](docs/learner-tracks/devsecops-security.md) |
@@ -39,6 +56,7 @@ Different learners need different routes. A DevOps learner does not need to stud
 | Need | Open |
 | --- | --- |
 | New learner route | [Student Start Here](STUDENT_START_HERE.md) |
+| Active AWS Zero to Hero cohort | [AWS SAA-C03 batch repository](https://github.com/cloudadhar/AWS-Zero-to-Hero-SAA-C03) |
 | Role-wise track dashboard | [Learner Tracks](docs/learner-tracks/README.md) |
 | Scenario-based interview questions | [Interview Scenarios](docs/learner-tracks/interview-scenarios.md) |
 | Hands-on labs | [Labs](labs/README.md) |
