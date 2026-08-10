@@ -1,5 +1,27 @@
 # Roadmap Index
 
+## 🚀 START HERE: Complete DevOps & Cloud Roadmap 2026
+
+### **[DevOps & Cloud Learning Hub with 10 Detailed Guides](roadmaps/README_DEVOPS_HUB.md)**
+- 9-phase learning progression (8-32 weeks)
+- 10 comprehensive guides (150+ pages, 200+ examples)
+- Tools: GitHub, Docker, SonarQube, Nexus, Vault, Prometheus, Grafana, Terraform, Kubernetes
+- GitHub Actions & GitLab CI integration for every tool
+- Interview preparation and best practices
+
+**Quick Links to Guides:**
+- [GitHub & Git Workflows](roadmaps/guides/01-github-getting-started.md)
+- [Docker Complete Guide](roadmaps/guides/02-docker-complete-guide.md)
+- [SonarQube Code Quality](roadmaps/guides/04-sonarqube-setup.md)
+- [Nexus Artifact Management](roadmaps/guides/05-nexus-setup.md)
+- [Security Scanning (Trivy, Orca, Mend)](roadmaps/guides/06-trivy-setup.md)
+- [HashiCorp Vault Secrets](roadmaps/guides/07-vault-setup.md)
+- [Prometheus & Grafana Monitoring](roadmaps/guides/08-prometheus-grafana.md)
+- [Terraform Infrastructure as Code](roadmaps/guides/09-terraform-beginners.md)
+- [Kubernetes Container Orchestration](roadmaps/guides/10-kubernetes-beginners.md)
+
+---
+
 ## Role-Wise Learner Tracks
 
 1. [Learner Tracks Dashboard](docs/learner-tracks/README.md)

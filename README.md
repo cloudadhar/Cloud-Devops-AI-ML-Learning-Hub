@@ -1,8 +1,8 @@
 <div align="center">
 
-# Cloud DevOps AI/ML Learning Hub
+# Cloud and DevOps with AI - Complete Learning Hub
 
-### Colorful, role-wise, zero-to-advanced learning paths for Cloud, DevOps, DevSecOps, SRE, AI, ML, MLOps, Agentic AI, Linux, and platform engineering.
+### Zero-to-advanced learning paths for Cloud, DevOps, DevSecOps, SRE, AI, ML, MLOps, Agentic AI, Linux, and platform engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-cloudadhar-181717?style=for-the-badge&logo=github)](https://github.com/cloudadhar)
 [![CloudAdhar](https://img.shields.io/badge/CloudAdhar-Learning%20Hub-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.trainwithcloudadhar.com/)
@@ -15,7 +15,56 @@
 
 ---
 
-## Pick Your Learning Track First
+## 🚀 START HERE: Complete DevOps & Cloud Roadmap 2026
+
+### Comprehensive guide for beginners to advanced DevOps engineers
+
+👉 **[Complete DevOps & Cloud Roadmap with 10 Detailed Guides](roadmaps/README_DEVOPS_HUB.md)** - Start your DevOps journey here!
+
+**What's Included:**
+- ✅ 9-phase learning roadmap (8-32 weeks)
+- ✅ 10 comprehensive tool guides (150+ pages)
+- ✅ GitHub, Docker, SonarQube, Nexus, Vault, Prometheus, Grafana, Terraform, Kubernetes
+- ✅ 200+ code examples and configurations
+- ✅ GitHub Actions & GitLab CI integration
+- ✅ Interview preparation and best practices
+
+**Quick Navigation:**
+| Guide | Topics |
+|-------|--------|
+| [01-GitHub Getting Started](roadmaps/guides/01-github-getting-started.md) | Git, branching, workflows, SSH keys |
+| [02-Docker Complete Guide](roadmaps/guides/02-docker-complete-guide.md) | Docker, Dockerfile, registries |
+| [04-SonarQube Setup](roadmaps/guides/04-sonarqube-setup.md) | Code quality, GitHub/GitLab integration |
+| [05-Nexus Repository](roadmaps/guides/05-nexus-setup.md) | Artifact management, CI/CD publishing |
+| [06-Security Scanning](roadmaps/guides/06-trivy-setup.md) | Trivy, Orca, Mend, vulnerability scanning |
+| [07-HashiCorp Vault](roadmaps/guides/07-vault-setup.md) | Secret management, auth methods, K8s |
+| [08-Prometheus & Grafana](roadmaps/guides/08-prometheus-grafana.md) | Monitoring, metrics, dashboards, alerts |
+| [09-Terraform Beginners](roadmaps/guides/09-terraform-beginners.md) | IaC, AWS examples, state management |
+| [10-Kubernetes Beginners](roadmaps/guides/10-kubernetes-beginners.md) | K8s objects, Helm, orchestration |
+
+👉 **[Full DevOps Roadmap](roadmaps/cloud-devops-roadmap.md)** · **[All Guides Index](roadmaps/guides/README.md)** · **[Quick Reference](roadmaps/guides/README.md#-tools-quick-reference)**
+
+---
+
+## 📺 Recommended Video Courses
+
+### Train with Shubham - DevOps Zero to Hero (AI-Powered)
+**🎯 Complete DevOps learning from Zero to Hero**
+- **URL**: https://www.trainwithshubham.com/courses/DevOps---Zero-To-Hero-Udaan-Batch-11-AI---Powered-69cb932320504cf9295ca282
+- **Best For**: Comprehensive DevOps journey with AI-powered content
+- **Topics**: All DevOps tools, practices, and workflows
+- **Next Batch**: Announcement coming soon
+
+### Train with Shubham - AWS Solutions Architect (2026)
+**☁️ AWS Solutions Architect Level Course**
+- **URL**: https://www.trainwithshubham.com/courses/AWS--Zero-To-Hero-2026-Solutions-Architect-Level-691452a5c26d79058b6982e6
+- **Best For**: AWS professionals and cloud architects
+- **Topics**: AWS services, architecture, best practices
+- **Next Batch**: September 2026 (Announcement coming soon)
+
+💡 **Tip**: Combine these video courses with the guides in this repository for hands-on practice and deeper learning.
+
+---
 
 Different learners need different routes. A DevOps learner does not need to study ML first, and an ML learner does not need to start with Kubernetes internals on day one. Pick one role, finish the linked guide, then expand into adjacent tracks.
 

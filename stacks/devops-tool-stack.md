@@ -57,10 +57,10 @@ Client -> Nginx or Cloud Load Balancer -> Kong Gateway -> Service APIs -> Observ
 
 ## Nginx vs Kong
 
-| Tool | Best For | Learner Notes |
-| --- | --- | --- |
-| Nginx | Web server, reverse proxy, static files, load balancing, ingress | Start here to understand HTTP routing and reverse proxy basics. |
-| Kong Gateway | API gateway, authentication, rate limiting, plugins, AI/API governance | Learn after HTTP basics, especially for microservices and AI APIs. |
+| Tool | Best For | Learner Notes | Guide |
+| --- | --- | --- | --- |
+| Nginx | Web server, reverse proxy, static files, load balancing, ingress | Start here to understand HTTP routing and reverse proxy basics. | [Nginx Guide](../roadmaps/guides/03-nginx-web-server.md) |
+| Kong Gateway | API gateway, authentication, rate limiting, plugins, AI/API governance | Learn after HTTP basics, especially for microservices and AI APIs. | [Kong Docs](https://docs.konghq.com/gateway/latest/) |
 
 ## Interview Checkpoints
 

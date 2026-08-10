@@ -2,6 +2,41 @@
 
 Welcome to the Cloud DevOps AI/ML Learning Hub.
 
+## 🎯 Start with Complete DevOps Guides
+
+First, explore these comprehensive guides with tools and integration examples:
+
+📚 **[Complete DevOps Learning Guides](roadmaps/guides/README.md)** (Start here!)
+- [01: Git & GitHub Getting Started](roadmaps/guides/01-github-getting-started.md)
+- [02: Docker Complete Guide](roadmaps/guides/02-docker-complete-guide.md)
+- [03: Nginx Web Server & Reverse Proxy](roadmaps/guides/03-nginx-web-server.md) ⭐ NEW
+- [04: SonarQube Code Quality](roadmaps/guides/04-sonarqube-setup.md)
+- [05: Nexus Repository Manager](roadmaps/guides/05-nexus-setup.md)
+- [06: Trivy Security Scanning](roadmaps/guides/06-trivy-setup.md)
+- [07: HashiCorp Vault Secrets](roadmaps/guides/07-vault-setup.md)
+- [08: Prometheus & Grafana Monitoring](roadmaps/guides/08-prometheus-grafana.md)
+- [09: Terraform Infrastructure as Code](roadmaps/guides/09-terraform-beginners.md)
+- [10: Kubernetes Container Orchestration](roadmaps/guides/10-kubernetes-beginners.md)
+- [11: Minikube Local Kubernetes Development](roadmaps/guides/11-minikube-local-setup.md) ⭐ NEW
+
+## 📺 Video Courses
+
+**Highly Recommended**: Combine these video courses with hands-on guides above:
+
+### Train with Shubham - DevOps Zero to Hero (AI-Powered)
+- **URL**: https://www.trainwithshubham.com/courses/DevOps---Zero-To-Hero-Udaan-Batch-11-AI---Powered-69cb932320504cf9295ca282
+- **Best For**: Complete DevOps journey with AI-powered learning
+- **Next Batch**: Announcement coming soon
+
+### Train with Shubham - AWS Solutions Architect (2026)
+- **URL**: https://www.trainwithshubham.com/courses/AWS--Zero-To-Hero-2026-Solutions-Architect-Level-691452a5c26d79058b6982e6
+- **Best For**: AWS professionals and cloud architects
+- **Next Batch**: September 2026 (Announcement coming soon)
+
+💡 **Recommendation**: Use videos for concepts + guides for hands-on practice = Fastest learning!
+
+---
+
 ## Step 1: Build Foundation
 Read:
 
