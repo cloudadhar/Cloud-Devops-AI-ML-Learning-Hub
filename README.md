@@ -220,6 +220,29 @@ Use the weekly digest to decide what learners should focus on that week, then co
 
 Community milestones shared by maintainers: CloudAdhar community 22,000+ learners, TrainWithShubham community 1,06,000+ learners, combined learner reach 1,75,000+.
 
+---
+
+## 💬 Community & Support - Ask Us Questions!
+
+**Have questions? Get stuck? Need guidance?** Connect with us!
+
+### Direct Contact
+- 📸 **Instagram**: [@cloudadhar](https://www.instagram.com/cloudadhar/) or [@trainwithshubham__](https://www.instagram.com/trainwithshubham__/?hl=en)
+- 📺 **YouTube**: [@cloudadhar](https://www.youtube.com/@cloudadhar) or [@TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
+- 💬 **GitHub Discussions**: [Ask in Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions)
+- 🔗 **LinkedIn**: [Gangadhar Ure](https://www.linkedin.com/in/gangadharure/) or [Shubham Londhe](https://www.linkedin.com/in/shubhamlondhe1996/)
+
+### What to Share
+- Questions about any guide or tool
+- Problems with setup or installation
+- Interesting projects you built
+- Feedback on the roadmap
+- Suggestions for new guides or labs
+
+**Remember**: Asking questions is how you learn. The community is here to help! 🚀
+
+---
+
 ## Repository Map
 
 ```text

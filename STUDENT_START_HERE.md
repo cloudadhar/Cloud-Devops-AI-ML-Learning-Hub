@@ -245,3 +245,30 @@ Read `CONTRIBUTING.md` and `docs/contribution-workflow.md` first.
 Do not try to master everything immediately.
 
 Build foundation. Explore paths. Choose direction. Build projects. Document your work.
+
+---
+
+## 💬 Get Help & Connect With Community
+
+### Have Questions?
+You're not alone! Thousands of learners are on this journey too.
+
+**Reach out:**
+- 📸 **Instagram**: Ask on [@cloudadhar](https://www.instagram.com/cloudadhar/) or [@trainwithshubham__](https://www.instagram.com/trainwithshubham__/?hl=en) DM
+- 📺 **YouTube**: Comment on relevant videos at [@cloudadhar](https://www.youtube.com/@cloudadhar) or [@TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
+- 💬 **GitHub**: Post in [Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions) - our community answers!
+- 🤝 **LinkedIn**: Connect with [Gangadhar](https://www.linkedin.com/in/gangadharure/) or [Shubham](https://www.linkedin.com/in/shubhamlondhe1996/)
+
+### Share Your Progress
+- Built your first Docker container? 🐳
+- Deployed to AWS? ☁️
+- Set up a CI/CD pipeline? 🚀
+
+**Share it with us!** Tag us on Instagram/YouTube/LinkedIn. We'd love to celebrate your wins!
+
+### Quick Links
+- [Community Discussions](docs/community-discussions.md)
+- [GitHub Discussions](https://github.com/cloudadhar/Cloud-Devops-AI-ML-Learning-Hub/discussions)
+- [Contribution Guide](CONTRIBUTING.md)
+
+**Happy Learning! 🎯**
