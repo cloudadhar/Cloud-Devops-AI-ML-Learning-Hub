@@ -8,6 +8,18 @@ This is a comprehensive DevOps and Cloud learning path with detailed guides for 
 
 ## 📚 All Available Guides
 
+### Step 0: Environment Setup (For Windows Users)
+0. **[Windows Developer Setup for DevOps](./guides/00-windows-setup-guide.md)** ⭐ START HERE IF ON WINDOWS
+   - Git installation and configuration
+   - GitHub account setup and SSH keys
+   - VS Code installation and extensions
+   - Docker Desktop setup with WSL2
+   - Kubernetes tools (Minikube, kubectl)
+   - Node.js and Python installation
+   - WSL2 for Linux environment
+   - Troubleshooting common Windows issues
+   - First DevOps project on Windows
+
 ### Phase 1: Foundation
 1. **[Git & GitHub Getting Started](./guides/01-github-getting-started.md)**
    - Setting up Git locally

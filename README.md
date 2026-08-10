@@ -19,21 +19,25 @@
 
 ### Comprehensive guide for beginners to advanced DevOps engineers
 
-👉 **[Complete DevOps & Cloud Roadmap with 10 Detailed Guides](roadmaps/README_DEVOPS_HUB.md)** - Start your DevOps journey here!
+👉 **[Complete DevOps & Cloud Roadmap with 13 Comprehensive Guides](roadmaps/README_DEVOPS_HUB.md)** - Start your DevOps journey here!
 
 **What's Included:**
-- ✅ 9-phase learning roadmap (8-32 weeks)
-- ✅ 10 comprehensive tool guides (150+ pages)
-- ✅ GitHub, Docker, SonarQube, Nexus, Vault, Prometheus, Grafana, Terraform, Kubernetes
-- ✅ 200+ code examples and configurations
-- ✅ GitHub Actions & GitLab CI integration
+- ✅ Windows Developer Setup (for Windows learners)
+- ✅ 12 comprehensive tool guides (200+ pages)
+- ✅ Git, GitHub, Docker, Nginx, SonarQube, Nexus, Trivy, Vault, Prometheus, Terraform, Kubernetes, Minikube
+- ✅ 250+ code examples and configurations
+- ✅ GitHub Actions & GitLab CI/CD integration
+- ✅ Docker Compose, Helm, Kubernetes Ingress examples
 - ✅ Interview preparation and best practices
+- ✅ Local Kubernetes development with Minikube
 
 **Quick Navigation:**
 | Guide | Topics |
 |-------|--------|
+| [00-Windows Setup](roadmaps/guides/00-windows-setup-guide.md) | **START HERE** if on Windows - Git, Docker, WSL2 |
 | [01-GitHub Getting Started](roadmaps/guides/01-github-getting-started.md) | Git, branching, workflows, SSH keys |
-| [02-Docker Complete Guide](roadmaps/guides/02-docker-complete-guide.md) | Docker, Dockerfile, registries |
+| [02-Docker Complete Guide](roadmaps/guides/02-docker-complete-guide.md) | Docker, Dockerfile, registries, Docker Compose |
+| [03-Nginx Web Server](roadmaps/guides/03-nginx-web-server.md) | Web server, reverse proxy, load balancer, HTTPS |
 | [04-SonarQube Setup](roadmaps/guides/04-sonarqube-setup.md) | Code quality, GitHub/GitLab integration |
 | [05-Nexus Repository](roadmaps/guides/05-nexus-setup.md) | Artifact management, CI/CD publishing |
 | [06-Security Scanning](roadmaps/guides/06-trivy-setup.md) | Trivy, Orca, Mend, vulnerability scanning |
@@ -41,6 +45,7 @@
 | [08-Prometheus & Grafana](roadmaps/guides/08-prometheus-grafana.md) | Monitoring, metrics, dashboards, alerts |
 | [09-Terraform Beginners](roadmaps/guides/09-terraform-beginners.md) | IaC, AWS examples, state management |
 | [10-Kubernetes Beginners](roadmaps/guides/10-kubernetes-beginners.md) | K8s objects, Helm, orchestration |
+| [11-Minikube Local Setup](roadmaps/guides/11-minikube-local-setup.md) | Local Kubernetes, DevOps tool integration |}
 
 👉 **[Full DevOps Roadmap](roadmaps/cloud-devops-roadmap.md)** · **[All Guides Index](roadmaps/guides/README.md)** · **[Quick Reference](roadmaps/guides/README.md#-tools-quick-reference)**
 
