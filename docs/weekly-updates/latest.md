@@ -1,6 +1,6 @@
-# Weekly Learner Tech Digest - 2026-10-26
+# Weekly Learner Tech Digest - 2026-11-02
 
-Generated on 2026-10-26 08:45 UTC from official or maintained public feeds.
+Generated on 2026-11-02 10:51 UTC from official or maintained public feeds.
 
 Lookback window: last 10 days.
 
@@ -14,186 +14,211 @@ Lookback window: last 10 days.
 
 ## This Week Focus Plan
 
-- **AWS** (12 updates): Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
+- **AI / ML / MLOps** (2 updates): Focus on model/API quality, evaluation, observability, cost, data safety, and responsible usage.
+- **AWS** (9 updates): Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
 - **Azure** (3 updates): Map the update to subscriptions, RBAC, AKS/App Service, Azure Monitor, and cost controls.
 - **Azure and DevOps** (2 updates): Map the update to Azure DevOps, Git workflows, enterprise authentication, and release safety.
-- **Cloud Native** (1 updates): Connect the update to Kubernetes, platform engineering, CNCF projects, reliability, and production operations.
+- **Cloud Native** (2 updates): Connect the update to Kubernetes, platform engineering, CNCF projects, reliability, and production operations.
 - **Containers and Kubernetes** (7 updates): Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
-- **GitHub and DevOps** (12 updates): Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
+- **GitHub and DevOps** (11 updates): Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
 - **Google Cloud** (8 updates): Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
-- **IaC and Automation** (2 updates): Think in Terraform/OpenTofu modules, state, plan review, drift, and safe rollback.
-- **Observability** (9 updates): Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
+- **IaC and Automation** (1 updates): Think in Terraform/OpenTofu modules, state, plan review, drift, and safe rollback.
+- **Observability** (3 updates): Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
+- **Security** (1 updates): Check secrets, identity, least privilege, dependency risk, image risk, and audit logs.
 
 ## Updates by Focus Area
 
+### AI / ML / MLOps
+
+- [The boundary problem in agentic AI is a platform problem](https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/)
+  - Source: CNCF Blog | Published: 2026-10-29
+  - What to learn: Focus on model/API quality, evaluation, observability, cost, data safety, and responsible usage.
+  - Learner task: Connect this to AI API quality, evaluation, observability, data safety, latency, and cost.
+- [Volcano v1.16 Released: NamespaceQueue, fairshare, and a broader HyperNode ecosystem](https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem/)
+  - Source: CNCF Blog | Published: 2026-10-28
+  - What to learn: Focus on model/API quality, evaluation, observability, cost, data safety, and responsible usage.
+  - Learner task: Connect this to AI API quality, evaluation, observability, data safety, latency, and cost.
+
 ### AWS
 
-- [Web Search on Amazon Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/)
-  - Source: AWS What's New | Published: 2026-10-23
+- [Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/)
+  - Source: AWS What's New | Published: 2026-10-30
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat)
-  - Source: AWS What's New | Published: 2026-10-23
+- [Web Search now available on Kiro in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/)
+  - Source: AWS What's New | Published: 2026-10-30
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/)
-  - Source: AWS What's New | Published: 2026-10-23
+- [Amazon Connect Customer automatically saves in-progress emails as drafts](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/)
+  - Source: AWS What's New | Published: 2026-10-30
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [Amazon Corretto October 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates)
-  - Source: AWS What's New | Published: 2026-10-23
+- [Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/)
+  - Source: AWS What's New | Published: 2026-10-30
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [Amazon EMR on EKS reduces EMR charge by 30 percent](https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/)
-  - Source: AWS What's New | Published: 2026-10-23
+- [Amazon CloudFront now provides viewer ISP and post-quantum TLS details](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/)
+  - Source: AWS What's New | Published: 2026-10-30
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [Amazon MWAA now available in Mexico (Central) Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/)
-  - Source: AWS What's New | Published: 2026-10-23
+- [Amazon MSK now supports TLS 1.3 for data in transit](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-tls/)
+  - Source: AWS What's New | Published: 2026-10-30
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp)
-  - Source: AWS What's New | Published: 2026-10-22
+- [Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options](https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/)
+  - Source: AWS What's New | Published: 2026-10-30
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [AWS Continuum for code vulnerabilities is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available)
-  - Source: AWS What's New | Published: 2026-10-22
+- [AWS WAF announces automatic SDK integration for Amazon CloudFront distributions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/)
+  - Source: AWS What's New | Published: 2026-10-30
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [AWS Continuum for code vulnerabilities is now generally available](https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/)
-  - Source: AWS News Blog | Published: 2026-10-22
-  - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
-  - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services](https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/)
-  - Source: AWS News Blog | Published: 2026-10-20
-  - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
-  - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/)
-  - Source: AWS News Blog | Published: 2026-10-19
-  - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
-  - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
-- [Deploying, maintaining, and migrating production n8n on EKS](https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks/)
-  - Source: CNCF Blog | Published: 2026-10-16
+- [AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/)
+  - Source: AWS News Blog | Published: 2026-10-26
   - What to learn: Review IAM, cost impact, region availability, and how the service fits EC2/EKS/Lambda/S3 projects.
   - Learner task: Create a mini note covering affected AWS service, IAM impact, cost impact, region impact, and one cleanup step.
 
 ### Azure
 
-- [Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/)
-  - Source: Azure Blog | Published: 2026-10-20
+- [Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/)
+  - Source: Azure Blog | Published: 2026-10-29
   - What to learn: Map the update to subscriptions, RBAC, AKS/App Service, Azure Monitor, and cost controls.
   - Learner task: Map this to Azure identity, resource groups, monitoring, pricing, and one hands-on Azure lab idea.
-- [Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/)
-  - Source: Azure Blog | Published: 2026-10-19
+- [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/)
+  - Source: Azure Blog | Published: 2026-10-28
   - What to learn: Map the update to subscriptions, RBAC, AKS/App Service, Azure Monitor, and cost controls.
   - Learner task: Map this to Azure identity, resource groups, monitoring, pricing, and one hands-on Azure lab idea.
-- [Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/)
-  - Source: Azure Blog | Published: 2026-10-16
+- [Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/)
+  - Source: Azure Blog | Published: 2026-10-26
   - What to learn: Map the update to subscriptions, RBAC, AKS/App Service, Azure Monitor, and cost controls.
   - Learner task: Map this to Azure identity, resource groups, monitoring, pricing, and one hands-on Azure lab idea.
 
 ### Azure and DevOps
 
-- [Introducing Agentic Autofix for code and dependencies](https://devblogs.microsoft.com/devops/introducing-agentic-autofix-for-code-and-dependencies/)
-  - Source: Microsoft DevOps Blog | Published: 2026-10-21
+- [Azure DevOps Server RC (26H2) Is Now Available](https://devblogs.microsoft.com/devops/azure-devops-server-rc-26h2-is-now-available/)
+  - Source: Microsoft DevOps Blog | Published: 2026-10-27
   - What to learn: Map the update to Azure DevOps, Git workflows, enterprise authentication, and release safety.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [Azure DevOps available in Microsoft Copilot Cowork](https://devblogs.microsoft.com/devops/azure-devops-available-in-microsoft-copilot/)
-  - Source: Microsoft DevOps Blog | Published: 2026-10-20
+- [PHP2Shell and Azure DevOps: what to check](https://devblogs.microsoft.com/devops/php2shell-and-azure-devops-what-to-check/)
+  - Source: Microsoft DevOps Blog | Published: 2026-10-26
   - What to learn: Map the update to Azure DevOps, Git workflows, enterprise authentication, and release safety.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
 
 ### Cloud Native
 
-- [Putting Nepal on the CNCF Golden Kubestronaut map](https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map/)
-  - Source: CNCF Blog | Published: 2026-10-16
+- [KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips](https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/)
+  - Source: CNCF Blog | Published: 2026-10-30
+  - What to learn: Connect the update to Kubernetes, platform engineering, CNCF projects, reliability, and production operations.
+  - Learner task: Connect this to CNCF tools, platform engineering, reliability, Kubernetes operations, and one lab idea.
+- [Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery](https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/)
+  - Source: CNCF Blog | Published: 2026-10-27
   - What to learn: Connect the update to Kubernetes, platform engineering, CNCF projects, reliability, and production operations.
   - Learner task: Connect this to CNCF tools, platform engineering, reliability, Kubernetes operations, and one lab idea.
 
 ### Containers and Kubernetes
 
+- [Coding Agent Horror Stories: The CVE That Did Not Exist](https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/)
+  - Source: Docker Blog | Published: 2026-10-29
+  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
+  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
+- [From Working Group to SIG Architecture: spotlight on AI Conformance](https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/)
+  - Source: Kubernetes Blog | Published: 2026-10-29
+  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
+  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
+- [Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program](https://www.docker.com/blog/docker-navigator-partner-program/)
+  - Source: Docker Blog | Published: 2026-10-28
+  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
+  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
+- [OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo](https://www.cncf.io/blog/2026/10/27/opentelemetry-powered-distributed-tracing-and-kubernetes-events-in-openchoreo/)
+  - Source: CNCF Blog | Published: 2026-10-27
+  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
+  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
+- [Announcing the Workload Conformance Working Group](https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/)
+  - Source: Kubernetes Blog | Published: 2026-10-27
+  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
+  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
+- [PHP2Shell and eMudhra Patched](https://www.docker.com/blog/php2shell-and-emudhra-patched/)
+  - Source: Docker Blog | Published: 2026-10-23
+  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
+  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
 - [Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi](https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami/)
   - Source: CNCF Blog | Published: 2026-10-23
-  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
-  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
-- [Security Update on PHP2Shell: Impact for Docker Customers](https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/)
-  - Source: Docker Blog | Published: 2026-10-22
-  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
-  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
-- [ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers](https://www.docker.com/blog/docker-activestate-partnership/)
-  - Source: Docker Blog | Published: 2026-10-22
-  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
-  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
-- [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/band-ai-agents-docker-sandboxes/)
-  - Source: Docker Blog | Published: 2026-10-21
-  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
-  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
-- [Before you evaluate an AI SRE, give your existing agent context](https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/)
-  - Source: CNCF Blog | Published: 2026-10-21
-  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
-  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
-- [How AI workloads are reshaping Kubernetes autoscaling](https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/)
-  - Source: CNCF Blog | Published: 2026-10-19
-  - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
-  - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
-- [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/)
-  - Source: Docker Blog | Published: 2026-10-16
   - What to learn: Practice the change with Docker, kubectl, Helm, ingress, probes, and rollback thinking.
   - Learner task: Turn this into a kubectl, Docker, Helm, ingress, rollback, or troubleshooting practice task.
 
 ### GitHub and DevOps
 
-- [Usage metrics API adds usage from tools like OpenCode](https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode)
-  - Source: GitHub Changelog | Published: 2026-10-23
+- [Game Off 2026: The theme is SHIFT](https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/)
+  - Source: GitHub Blog | Published: 2026-11-01
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [Turn notifications into code with GitHub Copilot in Teams](https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams)
-  - Source: GitHub Changelog | Published: 2026-10-23
+- [Webhook IP ranges added to the Meta API](https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api)
+  - Source: GitHub Changelog | Published: 2026-10-29
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [EMU deletions fix](https://github.blog/changelog/2026-10-23-emu-deletions-fix)
-  - Source: GitHub Changelog | Published: 2026-10-23
+- [GitHub Universe 2026: Evolving every layer of the stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/)
+  - Source: GitHub Blog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [Public monitoring adds triage, validity, API, and webhooks](https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks)
-  - Source: GitHub Changelog | Published: 2026-10-23
+- [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)
+  - Source: GitHub Blog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [Enterprise installations for GitHub Apps generally available](https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available)
-  - Source: GitHub Changelog | Published: 2026-10-23
+- [Route and orchestrate models with GitHub Copilot Fusion](https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion)
+  - Source: GitHub Changelog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [GitHub Copilot in Visual Studio — September update](https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2)
-  - Source: GitHub Changelog | Published: 2026-10-23
+- [GitHub Copilot app, Universe releases](https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases)
+  - Source: GitHub Changelog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [Custom skills, agents, and MCP servers in usage metrics API](https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api)
-  - Source: GitHub Changelog | Published: 2026-10-22
+- [GitHub Enterprise now includes access to GitHub Copilot](https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot)
+  - Source: GitHub Changelog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [Global default for Copilot features generally available](https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available)
-  - Source: GitHub Changelog | Published: 2026-10-22
+- [Security extension for the GitHub Copilot app](https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app)
+  - Source: GitHub Changelog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [How bug bounty sharpens one researcher’s security skills](https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/)
-  - Source: GitHub Blog | Published: 2026-10-22
+- [GitHub intelligence puts your code, context, and history to work](https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work)
+  - Source: GitHub Changelog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
-  - Source: GitHub Blog | Published: 2026-10-21
+- [Build shared workflows for your team with Copilot Automations](https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations)
+  - Source: GitHub Changelog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/)
-  - Source: GitHub Blog | Published: 2026-10-20
-  - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
-  - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
-- [How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/)
-  - Source: GitHub Blog | Published: 2026-10-19
+- [GitHub Copilot in VS Code, Universe releases](https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases)
+  - Source: GitHub Changelog | Published: 2026-10-28
   - What to learn: Check whether workflows, branch protection, pull requests, runners, or release automation should be improved.
   - Learner task: Write where this fits in a CI/CD workflow and one interview question about release safety or collaboration.
 
 ### Google Cloud
 
+- [October 31, 2026](https://docs.cloud.google.com/release-notes#October_31_2026)
+  - Source: Google Cloud Release Notes | Published: 2026-10-31
+  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
+  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
+- [October 30, 2026](https://docs.cloud.google.com/release-notes#October_30_2026)
+  - Source: Google Cloud Release Notes | Published: 2026-10-30
+  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
+  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
+- [October 29, 2026](https://docs.cloud.google.com/release-notes#October_29_2026)
+  - Source: Google Cloud Release Notes | Published: 2026-10-29
+  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
+  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
+- [October 28, 2026](https://docs.cloud.google.com/release-notes#October_28_2026)
+  - Source: Google Cloud Release Notes | Published: 2026-10-28
+  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
+  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
+- [October 27, 2026](https://docs.cloud.google.com/release-notes#October_27_2026)
+  - Source: Google Cloud Release Notes | Published: 2026-10-27
+  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
+  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
+- [October 26, 2026](https://docs.cloud.google.com/release-notes#October_26_2026)
+  - Source: Google Cloud Release Notes | Published: 2026-10-26
+  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
+  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
 - [October 25, 2026](https://docs.cloud.google.com/release-notes#October_25_2026)
   - Source: Google Cloud Release Notes | Published: 2026-10-25
   - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
@@ -202,80 +227,35 @@ Lookback window: last 10 days.
   - Source: Google Cloud Release Notes | Published: 2026-10-24
   - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
   - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
-- [October 23, 2026](https://docs.cloud.google.com/release-notes#October_23_2026)
-  - Source: Google Cloud Release Notes | Published: 2026-10-23
-  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
-  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
-- [October 22, 2026](https://docs.cloud.google.com/release-notes#October_22_2026)
-  - Source: Google Cloud Release Notes | Published: 2026-10-22
-  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
-  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
-- [October 21, 2026](https://docs.cloud.google.com/release-notes#October_21_2026)
-  - Source: Google Cloud Release Notes | Published: 2026-10-21
-  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
-  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
-- [October 20, 2026](https://docs.cloud.google.com/release-notes#October_20_2026)
-  - Source: Google Cloud Release Notes | Published: 2026-10-20
-  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
-  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
-- [October 19, 2026](https://docs.cloud.google.com/release-notes#October_19_2026)
-  - Source: Google Cloud Release Notes | Published: 2026-10-19
-  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
-  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
-- [October 18, 2026](https://docs.cloud.google.com/release-notes#October_18_2026)
-  - Source: Google Cloud Release Notes | Published: 2026-10-18
-  - What to learn: Connect the update to projects, IAM, Cloud Run/GKE, Artifact Registry, and Cloud Operations.
-  - Learner task: Map this to GCP projects, service accounts, networking, deployment option, and one Cloud Run or GKE lab idea.
 
 ### IaC and Automation
 
-- [v1.17.0](https://github.com/hashicorp/terraform/releases/tag/v1.17.0)
-  - Source: Terraform Releases | Published: 2026-10-22
-  - What to learn: Think in Terraform/OpenTofu modules, state, plan review, drift, and safe rollback.
-  - Learner task: Write the Terraform/OpenTofu state, plan, module, drift, and rollback angle for this update.
-- [v1.16.7](https://github.com/hashicorp/terraform/releases/tag/v1.16.7)
-  - Source: Terraform Releases | Published: 2026-10-22
+- [v1.17.1](https://github.com/hashicorp/terraform/releases/tag/v1.17.1)
+  - Source: Terraform Releases | Published: 2026-10-28
   - What to learn: Think in Terraform/OpenTofu modules, state, plan review, drift, and safe rollback.
   - Learner task: Write the Terraform/OpenTofu state, plan, module, drift, and rollback angle for this update.
 
 ### Observability
 
-- [Filtering and reducing AI agent telemetry with the OpenTelemetry Collector](https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/)
-  - Source: CNCF Blog | Published: 2026-10-22
+- [Grafana 13.3 release: manage variables across dashboards, share findings with Notebooks, a UI refresh, and more](https://grafana.com/blog/grafana-13-3-release-all-the-latest-features/)
+  - Source: Grafana Blog | Published: 2026-10-29
   - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
   - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
-- [Spend less time on operational busywork and resolve incidents faster with Grafana Workflows](https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/)
-  - Source: Grafana Blog | Published: 2026-10-21
+- [Evaluate AI models for observability: o11y-bench joins Fireworks' Specialized Intelligence Index and reaches v1.1](https://grafana.com/blog/evaluate-ai-models-for-observability-o11y-bench-joins-fireworks-specialized-intelligence-index-and-reaches-v1-1/)
+  - Source: Grafana Blog | Published: 2026-10-28
   - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
   - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
-- [ObservabilityCON 2026: A guide to all the announcements from Grafana Labs](https://grafana.com/blog/observabilitycon-2026-announcements/)
-  - Source: Grafana Blog | Published: 2026-10-20
+- [Agent Observability FAQ: Understand the value of monitoring, evaluating, and improving your AI agents](https://grafana.com/blog/agent-observability-faq-understand-the-value-of-monitoring-evaluating-and-improving-your-ai-agents/)
+  - Source: Grafana Blog | Published: 2026-10-27
   - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
   - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
-- [From production problem to proposed fix: Implement autonomous operations with Grafana AI](https://grafana.com/blog/grafana-ai-autonomous-operations/)
-  - Source: Grafana Blog | Published: 2026-10-20
-  - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
-  - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
-- [Grafana Pages: Turn data into interactive experiences with the next evolution of Grafana](https://grafana.com/blog/grafana-ai-next-gen-visualization/)
-  - Source: Grafana Blog | Published: 2026-10-20
-  - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
-  - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
-- [Break the link between data volume and your observability bill with Adaptive Telemetry](https://grafana.com/blog/cut-costs-keep-what-you-need-adaptive-telemetry/)
-  - Source: Grafana Blog | Published: 2026-10-20
-  - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
-  - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
-- [Full-stack observability in Grafana Cloud: More connections, richer context, and faster investigations for users and agents](https://grafana.com/blog/full-stack-observability-with-knowledge-graph/)
-  - Source: Grafana Blog | Published: 2026-10-20
-  - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
-  - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
-- [Expand what’s possible with Grafana: The Grafana Marketplace is now generally available](https://grafana.com/blog/grafana-marketplace/)
-  - Source: Grafana Blog | Published: 2026-10-20
-  - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
-  - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
-- [6 improvements that make Grafana Assistant better at helping your workflows](https://grafana.com/blog/six-improvements-that-make-grafana-assistant-better-at-helping-your-workflows/)
-  - Source: Grafana Blog | Published: 2026-10-19
-  - What to learn: Ask what metrics, logs, traces, dashboards, and alerts would prove the system is healthy.
-  - Learner task: Define one metric, one log, one trace, and one alert that would prove this is working.
+
+### Security
+
+- [Isolation. Security. Scale.](https://www.cncf.io/blog/2026/10/26/isolation-security-scale/)
+  - Source: CNCF Blog | Published: 2026-10-26
+  - What to learn: Check secrets, identity, least privilege, dependency risk, image risk, and audit logs.
+  - Learner task: Identify the risk, the control, where it belongs in CI/CD, and one validation command or checklist item.
 
 ## Suggested Interview Practice
 
